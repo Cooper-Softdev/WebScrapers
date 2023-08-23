@@ -22,7 +22,7 @@ A web scraper tool designed to extract information on children's hospitals from 
 
 2. Navigate to the project directory.
    ```
-   cd [project_directory]
+   cd webscrapers
    ```
 
 3. Install the necessary packages.
@@ -32,7 +32,7 @@ A web scraper tool designed to extract information on children's hospitals from 
 
 4. Run the scraper.
    ```
-   node [script_name.js]
+   node scraper.js
    ```
 
 5. Once the scraping is complete, the data will be saved in a `data.json` file within the project directory.
