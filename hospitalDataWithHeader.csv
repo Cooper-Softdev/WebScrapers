@@ -1,0 +1,226 @@
+hospitalData
+name,address,phone,web_address,staffed_beds,hospital_type,part_of_system
+AdventHealth for Children,"601 East Rollins Street, Orlando, FL 32803, United States of America",(407) 303-7716,https://www.adventhealth.com/hospital/adventhealth-children,198,Acute,Yes
+Advocate Childrens Hospital,"4440 West 95th Street, Oak Lawn, IL 60453, United States of America",(708) 684-8000,https://www.advocatechildrenshospital.com/,145,Acute,Yes
+Advocate Childrens Hospital  Park Ridge,"1775 Dempster Street, Park Ridge, IL 60068, United States of America",(855) 312-5437,https://www.advocatechildrenshospital.com/,137,Acute,Yes
+Akron Childrens Hospital,"One Perkins Square, Akron, OH 44308-1062, United States of America",(330) 543-1000,https://www.akronchildrens.org/,466,Acute,No
+American Family Childrens Hospital,"1675 Highland Avenue, Madison, WI 53792, United States of America",(608) 890-5437,https://www.uwhealthkids.org/,101,Acute,Yes
+Ann  Robert H Lurie Childrens Hospital of Chicago,"225 East Chicago Avenue, Chicago, IL 60611-2605, United States of America",(312) 227-4000,https://www.luriechildrens.org/,364,Acute,No
+Arkansas Childrens Hospital,"1 Children's Way, Little Rock, AR 72202, United States of America",(501) 364-1100,https://www.archildrens.org/,360,Acute,No
+Arnold Palmer Hospital for Children,"92 West Miller Street, Orlando, FL 32806, United States of America",(407) 649-9111,http://www.orlandohealth.com/arnoldpalmerhospital/,196,Acute,Yes
+Ascension St John Childrens Hospital,"22101 Moross Road, Detroit, MI 48236, United States of America",(313) 343-3964,https://healthcare.ascension.org/Locations/Michigan/MIDET/Detroit-Ascension-St-John-Hospital,83,Acute,Yes
+Atrium Health Navicent Beverly Knight Olson Childrens Hospital,"777 Hemlock Street, Macon, GA 31201, United States of America",(478) 633-1000,https://www.childrenshospitalnh.org/,79,Acute,Yes
+Banner Childrens at Desert,"1400 South Dobson Road, Mesa, AZ 85202, United States of America",(480) 412-5437,https://www.bannerhealth.com/,138,Acute,Yes
+Baylor Scott  White McLane Childrens Medical Center,"1901 South West HK Dodgen Loop, Temple, TX 76502, United States of America",(254) 935-4000,https://www.bswhealth.com/mclane-childrens/locations/medical-center-temple/,115,Acute,Yes
+Baystate Childrens Hospital,"759 Chestnut Street, Springfield, MA 01199, United States of America",(413) 794-5060,https://www.baystatehealth.com/,unknown,Acute,Yes
+Beaumont Childrens,"3601 West Thirteen Mile Road, Royal Oak, MI 48073, United States of America",(248) 551-0414,https://www.beaumontchildrenshospital.com/,101,Acute,Yes
+Bernard  Millie Duker Childrens Hospital,"43 New Scotland Avenue, Albany, NY 12208-3478, United States of America",(518) 262-5333,http://www.amc.edu/Patient/services/childrens_hospital/,125,Acute,Yes
+Betty H Cameron Womens  Childrens Hospital,"2131 South 17th Street, Wilmington, NC 28402, United States of America",(910) 667-7294,https://nhrmc.org/services/pediatrics,310,Acute,Yes
+Blank Childrens Hospital,"1200 Pleasant Street, Des Moines, IA 50309, United States of America",(515) 241-5926,https://www.blankchildrens.org/,96,Acute,Yes
+Blythedale Childrens Hospital,"95 Bradhurst Avenue, Valhalla, NY 10595, United States of America",(914) 592-7555,https://www.blythedale.org/,86,Specialty,No
+Bon Secours St Marys Hospital Childrens Services,"5801 Bremo Road, Richmond, VA 23226, United States of America",(804) 285-2011,https://www.bonsecours.com/,94,Acute,Yes
+Boston Childrens Hospital,"300 Longwood Avenue, Boston, MA 02115-5724, United States of America",(617) 355-6000,https://www.childrenshospital.org/,415,Acute,No
+Boys Town National Research Hospital,"555 North 30th Street, Omaha, NE 68131, United States of America",(531) 355-1234,https://www.boystown.org/,unknown,Acute,No
+Bronson Methodist Hospital,"601 John Street, Kalamazoo, MI 49007, United States of America",(269) 341-7654,https://www.bronsonhealth.com/,91,Acute,Yes
+CS Mott Childrens Hospital,"1500 East Medical Center Drive, Ann Arbor, MI 48109-0475, United States of America",(734) 936-4000,https://www.med.umich.edu/mott/,249,Acute,Yes
+Carle Foundation Hospital,"611 West Park Street, Urbana, IL 61801, United States of America",(217) 383-3311,https://carle.org/,unknown,Acute,Yes
+Carrie Tingley Hospital,"1127 University Boulevard NE, Albuquerque, NM 87102-1715, United States of America",(505) 272-5200,http://hsc.unm.edu/health/locations/childrens-hospital.html,15,Specialty,Yes
+Childrens Health Dallas,"1935 Medical District Drive, Dallas, TX 75235-7701, United States of America",(214) 456-7000,https://www.childrens.com/,497,Acute,Yes
+Childrens Healthcare of Atlanta,"1575 Northeast Expressway, Atlanta, GA 30329, United States of America",(404) 785-7000,https://www.choa.org/,649,Acute,No
+Childrens Hospital  Medical Center,"8200 Dodge Street, Omaha, NE 68114-4113, United States of America",(402) 955-5400,https://www.childrensomaha.org/,189,Acute,No
+Childrens Hospital at Erlanger,"910 Blackford Street, Chattanooga, TN 37403, United States of America",(423) 778-5437,https://www.erlanger.org/,128,Acute,Yes
+Childrens Hospital Colorado,"13123 East 16th Avenue, Aurora, CO 80045-7106, United States of America",(720) 777-1234,https://www.childrenscolorado.org/,545,Acute,No
+Childrens Hospital Los Angeles,"4650 Sunset Boulevard, Los Angeles, CA 90027-6062, United States of America",(323) 660-2450,https://www.chla.org/,413,Acute,No
+Childrens Hospital New Orleans,"200 Henry Clay Avenue, New Orleans, LA 70118-5720, United States of America",(504) 899-9511,https://www.chnola.org/,220,Acute,Yes
+Childrens Hospital of Georgia,"1446 Harper Street, Augusta, GA 30912-7600, United States of America",(706) 721-0211,https://www.augustahealth.org/childrens-hospital-of-georgia/childrens-hospital-of-georgia-home,115,Acute,Yes
+Childrens Hospital of Michigan,"3901 Beaubien Boulevard, Detroit, MI 48201-2119, United States of America",(313) 745-5437,http://www.childrensdmc.org/,226,Acute,Yes
+Childrens Hospital of Nevada at University Medical Center,"1800 West Charleston Boulevard, Las Vegas, NV 89102, United States of America",(702) 383-2000,https://www.childrenshospitalofnevada.org/,77,Acute,Yes
+Childrens Hospital of Philadelphia,"3401 Civic Center Boulevard, Philadelphia, PA 19104-4399, United States of America",(215) 590-1000,https://www.chop.edu/,591,Acute,No
+Childrens Hospital of Richmond at VCU,"1000 East Broad Street, Richmond, VA 23298, United States of America",(804) 628-5946,https://www.chrichmond.org/,132,Acute,Yes
+Childrens Hospital of The Kings Daughters Inc,"601 Children's Lane, Norfolk, VA 23507-1910, United States of America",(757) 668-7000,https://www.chkd.org/,185,Acute,No
+Childrens Hospital of the University of Illinois,"1740 West Taylor Street, Chicago, IL 60612, United States of America",(312) 996-8297,https://hospital.uillinois.edu/primary-and-specialty-care/pediatrics/childrens-hospital/locations-and-contact-for-pediatrics/childrens-hospital,unknown,Acute,Yes
+Childrens Memorial Hermann Hospital,"6411 Fannin Street, Houston, TX 77030-1501, United States of America",(713) 704-5437,https://www.childrensmemorialhermann.org/,239,Acute,Yes
+Childrens Mercy Kansas City,"2401 Gillham Road, Kansas City, MO 64108-4619, United States of America",(816) 234-3000,https://www.childrensmercy.org/,353,Acute,No
+Childrens Minnesota,"2525 Chicago Avenue South, Minneapolis, MN 55404-4518, United States of America",(612) 813-6100,https://www.childrensmn.org/,429,Acute,Yes
+Childrens Minnesota  St Paul,"345 North Smith Avenue, St. Paul, MN 55102, United States of America",(651) 220-6110,https://www.childrensmn.org/,unknown,Acute,Yes
+Childrens National Hospital,"111 Michigan Avenue NW, Washington, DC 20010-2978, United States of America",(202) 476-5000,https://www.childrensnational.org/,323,Acute,No
+Childrens of Alabama,"1600 Seventh Avenue South, Birmingham, AL 35233-1711, United States of America",(205) 638-9100,https://www.childrensal.org/,351,Acute,No
+Childrens of Mississippi,"2500 North State Street, Jackson, MS 39216-4505, United States of America",(601) 815-7020,http://childrenshospital.umc.edu/,253,Acute,Yes
+Childrens Specialized Hospital,"200 Somerset Street, New Brunswick, NJ 08901, United States of America",(732) 258-7134,https://www.childrens-specialized.org/,140,Specialty,Yes
+Childrens Wisconsin,"999 North 92nd Street, Milwaukee, WI 53226, United States of America",(414) 266-2000,https://www.chw.org/,207,Acute,Yes
+ChildServe,"5406 Merle Hay Road, Johnston, IA 50131, United States of America",(515) 727-8750,https://www.childserve.org/,64,Specialty,No
+CHOC Childrens,"1201 West La Veta Avenue, Orange, CA 92868, United States of America",(714) 997-3000,https://www.choc.org/,334,Acute,No
+CHRISTUS Childrens,"333 North Santa Rosa Street, San Antonio, TX 78207-3108, United States of America",(210) 704-2011,https://www.christushealth.org/santa-rosa/childrens-hospital-of-san-antonio,198,Acute,Yes
+Cincinnati Childrens Hospital Medical Center,"3333 Burnet Avenue, Cincinnati, OH 45229-3039, United States of America",(513) 636-4200,https://www.cincinnatichildrens.org/,654,Acute,No
+Cleveland Clinic Childrens,"9500 Euclid Avenue, Cleveland, OH 44195-5045, United States of America",(216) 444-2200,https://www.clevelandclinic.org/pediatrics,389,Acute,Yes
+Cleveland Clinic Childrens Hospital for Rehabilitation,"2801 Martin Luther King, Jr. Drive, Cleveland, OH 44104-3864, United States of America",(216) 448-6400,https://www.clevelandclinic.org/childrenshospital,25,Specialty,Yes
+Cohen Childrens Medical Center,"269-01 76th Avenue, New Hyde Park, NV 11040, United States of America",(718) 470-3000,https://www.cohenchildrens.com/,146,Acute,Yes
+Comer Childrens Hospital at University of Chicago Medical Center,"5721 South Maryland Avenue, Chicago, IL 60637, United States of America",(773) 702-1000,https://www.uchicagokidshospital.org/,161,Acute,Yes
+Community Regional Medical Center,"2823 Fresno Street, Fresno, CA 93721, United States of America",(559) 459-2730,https://www.communitymedical.org/,86,Acute,Yes
+Cone Health Womens  Childrens Center at Moses Cone Hospital,"1200 North Elm Street, Greensboro, NC 27401, United States of America",(336) 832-6100,http://www.conehealth.com/services/childrens-services/,unknown,Acute,Yes
+Connecticut Childrens Medical Center,"282 Washington Street, Hartford, CT 06106-3322, United States of America",(860) 545-9000,https://www.connecticutchildrens.org/,185,Acute,No
+Cook Childrens Medical Center,"801 Seventh Avenue, Fort Worth, TX 76104-2796, United States of America",(682) 885-4000,https://www.cookchildrens.org/,427,Acute,Yes
+Cottage Childrens Medical Center,"400 West Pueblo Street, Santa Barbara, CA 93105, United States of America",(805) 569-7273,https://www.cottagehealth.org/childrens/,23,Acute,Yes
+Covenant Childrens,"4015 - 22nd Place, Lubbock, TX 79410, United States of America",(806) 725-0000,http://covenantchildrens.org/,101,Acute,Yes
+Covenant HealthCare,"1447 N Harrison St., Saginaw, MI 48602, United States of America",(989) 583-0000,https://www.covenanthealthcare.com/ch/childrens-services,unknown,Acute,Yes
+CoxHealth,"3801 South National Avenue, Springfield, MO 65807, United States of America",(417) 269-6853,https://www.coxhealth.com/,65,Acute,Yes
+Dartmouth Health Childrens,"One Medical Center Drive, Lebanon, NH 03756, United States of America",(603) 650-5000,http://www.chadkids.org/,51,Acute,Yes
+Dayton Childrens Hospital,"One Children's Plaza, Dayton, OH 45404-1815, United States of America",(937) 641-3000,https://www.childrensdayton.org/,181,Acute,No
+Dell Childrens Medical Center,"4900 Mueller Boulevard, Austin, TX 78723, United States of America",(512) 324-0000,https://www.dellchildrens.net/,226,Acute,Yes
+Doernbecher Childrens Hospital at Oregon Health  Science University,"3181 SW Sam Jackson Park Road, Portland, OR 97239, United States of America",(503) 418-5195,https://www.ohsudoernbecher.com/,145,Acute,Yes
+Driscoll Childrens Hospital,"3533 South Alameda Street, Corpus Christi, TX 78411-1721, United States of America",(361) 694-5000,https://www.driscollchildrens.org/,162,Acute,No
+Dwaine and Cynthia Willett Childrens Hospital of Savannah,"4700 Waters Avenue, Savannah, GA 31403-3089, United States of America",(912) 350-8000,https://memorialhealth.com/locations/memorial-health-dwaine-and-cynthia-willett-childrens-hospital-of-savannah/,unknown,Acute,Yes
+East Tennessee Childrens Hospital,"2018 Clinch Avenue, Knoxville, TN 37916, United States of America",(865) 541-8000,https://www.etch.com/,152,Acute,No
+El Paso Childrens Hospital,"4845 Alameda Avenue, El Paso, TX 79905, United States of America",(915) 298-5444,https://www.elpasochildrens.org/,51,Acute,No
+Elizabeth Seton Childrens Center,"300 Corporate Boulevard South, Yonkers, NY 10701, United States of America",(914) 294-6300,https://www.setonchildrens.org/,unknown,Specialty,No
+Essentia HealthSt Marys Childrens Hospital Duluth,"407 East Third Street, Duluth, MN 55805, United States of America",(218) 786-4540,https://www.essentiahealth.org/find-facility/profile/essentia-health-st-marys-childrens-hospital-duluth/,333,Acute,Yes
+Franciscan Childrens,"30 Warren Street, Brighton, MA 02135, United States of America",(617) 254-3800,https://www.franciscanhospital.org/,81,Specialty,No
+Gertrudes Childrens Hospital,"Muthaiga Road, Nairobi,  00100, Kenya,",+254-20-7206000,http://www.gerties.org/,unknown,Acute,No
+Gillette Childrens Specialty Healthcare,"200 East University Avenue, St. Paul, MN 55101, United States of America",(651) 221-2848,https://www.gillettechildrens.org/,55,Specialty,No
+Golisano Childrens Hospital at The University of Rochester Medical Center,"601 Elmwood Avenue, Rochester, NY 14642-0002, United States of America",(585) 275-1846,https://www.urmc.rochester.edu/childrens-hospital.aspx,168,Acute,Yes
+Golisano Childrens Hospital of Southwest Florida,"9981 South Health Park Drive, Fort Myers, FL 33908, United States of America",(239) 332-1111,https://www.leememorial.org/,134,Acute,Yes
+Goryeb Childrens Hospital,"100 Madison Avenue, Morristown, NJ 07962, United States of America",(973) 971-7857,https://www.atlantichealth.org/cons/services/pediatrics,69,Acute,Yes
+Gundersen Lutheran Medical Center,"1900 South Avenue, 5th FL, La Crosse, WI 54601, United States of America",(608) 782-7300,http://www.gundersenhealth.org/locations/la-crosse-campus/hospital/,30,Acute,Yes
+Hasbro Childrens Hospital at Rhode Island Hospital,"593 Eddy Street, Providence, RI 02903, United States of America",(401) 444-4000,https://www.hasbrochildrenshospital.org/,66,Acute,Yes
+Hassenfeld Childrens Hospital at NYU Langone,"424 East 34th Street, New York, NY 10016, United States of America",(212) 263-7300,https://nyulangone.org/locations/hassenfeld-childrens-hospital,102,Acute,Yes
+Helen DeVos Childrens Hospital,"100 Michigan Avenue, NE  MC250, Grand Rapids, MI 49503, United States of America",(616) 267-1000,http://www.spectrumhealth.org/locations/spectrum-health-hospitals-helen-devos-childrens-hospital,277,Acute,Yes
+Hennepin County Medical Center,"701 Park Avenue South, Minneapolis, MN 55415, United States of America",(612) 873-2677,https://www.hcmc.org/,371,Acute,Yes
+Holtz Childrens Hospital Jackson Memorial Hospital,"1611 NW 12th Avenue, Miami, FL 33136-1094, United States of America",(305) 585-6238,http://jacksonhealth.org/forkids.asp,245,Acute,Yes
+Hoops Family Childrens Hospital,"1340 Hal Greer Boulevard, Huntington, WV 25701, United States of America",(304) 526-2000,https://hoopschildrens.org/,71,Acute,Yes
+HSHS St Johns Childrens Hospital,"800 East Carpenter Street, Springfield, IL 62769, United States of America",(217) 544-6464,https://www.st-johns.org/,78,Acute,Yes
+HSHS St Vincent Childrens Hospital,"835 South Van Buren Street, Green Bay, WI 54301, United States of America",(920) 433-0111,http://www.stvincenthospital.org/,56,Acute,Yes
+Inova L J Murphy Childrens Hospital,"3300 Gallows Road, Falls Church, VA 22042, United States of America",(703) 776-4002,https://www.inova.org/,241,Acute,Yes
+James and Connie Maynard Childrens Hospital at Vidant Medical Center,"2100 Stantonsburg Road, Greenville, NC 27835-6028, United States of America",(252) 847-4100,https://www.vidanthealth.com/services/maynard-childrens-hospital/,130,Acute,Yes
+Janet Weis Childrens Hospital at Geisinger,"100 North Academy Avenue, Danville, PA 17822, United States of America",(570) 271-6424,https://www.geisinger.org/jwch,91,Acute,Yes
+Joe DiMaggio Childrens Hospital,"1005 Joe DiMaggio Drive, Hollywood, FL 33021, United States of America",(954) 265-5324,https://www.jdch.com/,214,Acute,Yes
+John R Oishei Childrens Hospital,"818 Ellicott Street, Buffalo, NY 14203, United States of America",(716) 323-2000,https://www.ochbuffalo.org/,160,Acute,Yes
+Johns Hopkins All Childrens Hospital,"501 Sixth Avenue South, St. Petersburg, FL 33701, United States of America",(727) 898-7451,https://www.hopkinsallchildrens.org/home,259,Acute,Yes
+Johns Hopkins Childrens Center,"1800 Orleans Street, Baltimore, MD 21287-3907, United States of America",(410) 955-5000,https://www.hopkinschildrens.org/,198,Acute,Yes
+Joseph M Sanzari  Childrens Hospital Hackensack University Medical Center,"30 Prospect Avenue, Hackensack, NJ 07601, United States of America",(551) 996-2000,https://www.hackensackumc.org/,105,Acute,Yes
+K Hovnanian Childrens Hospital at Jersey Shore University Medical Center,"1945 Corlies Avenue, Neptune, NJ 07754, United States of America",(732) 775-5500,https://www.khovnanianchildrenshospital.com/,88,Acute,Yes
+Kaiser Foundation Hospital  Roseville Womens and Childrens Services,"1600 Eureka Road, Roseville, CA 95661, United States of America",(916) 784-4000,http://www.kaiserpermanente.org/,unknown,Acute,Yes
+Kaiser Foundation Hospital - Santa Clara,"700 Lawrence Expressway, Santa Clara, CA 95051, United States of America",(408) 851-1000,http://hospitals.healthgrove.com/l/299/Kaiser-Foundation-Hospital-Santa-Clara,60,Acute,Yes
+Kaiser Permanente - Oakland Medical Center,"275 West MacArthur Boulevard, Oakland, CA 94611-5641, United States of America",(510) 752-1000,https://www.kp.org/,61,Acute,Yes
+Kaiser Permanente Pediatric Care Center Downey,"9333 Imperial Highway, Downey, CA 90242, United States of America",(562) 657-9000,https://thrive.kaiserpermanente.org/care-near-you/southern-california/downey/,unknown,Acute,Yes
+Kaiser Permanente Pediatric Care Center Fontana,"9961 Sierra Avenue, Fontana, CA 92335, United States of America",(866) 735-2922,https://www.childrenshospitals.org/hospital-directory,unknown,Acute,Yes
+Kaiser Permanente Pediatric Care Center Los Angeles,"4867 Sunset Boulevard, Los Angeles, CA 90027, United States of America",(323) 783-9521,https://www.kp.org/,48,Acute,Yes
+Kapiolani Medical Center for Women and Children,"1319 Punahou Street, Honolulu, HI 96826, United States of America",(808) 983-6000,https://www.kapiolani.org/,154,Acute,Yes
+Kennedy Krieger Institute,"707 North Broadway, Baltimore, MD 21205, United States of America",(443) 923-9200,https://www.kennedykrieger.org/,45,Specialty,No
+Kentucky Childrens Hospital,"N-100 - 800 Rose Street, Lexington, KY 40536-0293, United States of America",(859) 323-6000,https://www.ukhealthcare.uky.edu/kch/,173,Acute,Yes
+La Rabida Childrens Hospital,"6501 South Promontory Drive, Chicago, IL 60649, United States of America",(773) 363-6700,https://www.larabida.org/,30,Specialty,No
+Le Bonheur Childrens Hospital,"848 Adams Avenue, Memphis, TN 38103, United States of America",(901) 287-5437,https://www.lebonheur.org/,254,Acute,Yes
+Lehigh Valley Reilly Childrens Hospital,"1200 South Cedar Boulevard, Allentown, PA 18103, United States of America",(888) 402-5846,http://www.lvhn.org/,87,Acute,Yes
+Levine Childrens Hospital,"1000 Blythe Boulevard, Charlotte, NC 28232-2861, United States of America",(704) 381-2000,https://www.levinechildrenshospital.org/,244,Acute,Yes
+Loma Linda University Childrens Hospital,"11234 Anderson Street, Loma Linda, CA 92354, United States of America",(909) 558-8000,https://childrens-hospital.lomalindahealth.org/,343,Acute,Yes
+Lucile Packard Childrens Hospital Stanford Medicine  Childrens Health,"725 Welch Road, Palo Alto, CA 94304, United States of America",(650) 497-8000,http://www.stanfordchildrens.org/,254,Acute,Yes
+Maimonides Childrens Hospital,"4802 Tenth Avenue, Brooklyn, NY 11219-2916, United States of America",(718) 283-7500,https://www.maimonidesmed.org/,74,Acute,Yes
+Maria Fareri Childrens Hospital at Westchester Medical Center,"Valhalla Campus, Valhalla, NY 10595, United States of America",(914) 493-6160,https://www.mariafarerichildrens.org/,136,Acute,Yes
+Marshfield Childrens Hospital,"611 Saint Joseph Avenue, Marshfield, WI 54449, United States of America",(715) 387-1713,https://marshfieldclinic.org/,50,Acute,Yes
+Mary Bridge Childrens Hospital  Health Network,"317 Martin Luther King, Jr. Way, Tacoma, WA 98415, United States of America",(253) 403-1400,https://www.marybridge.org/,75,Acute,Yes
+Mayo Clinic Childrens Center,"200 First Street, SW, Rochester, MN 55905, United States of America",(507) 284-2511,https://www.mayoclinic.org/childrenshospital/,unknown,Acute,Yes
+McMullen Childrens Center at Cooperman Barnabas Medical Center,"94 Old Short Hills Road, Livingston, NJ 07039, United States of America",(973) 322-5000,http://www.barnabashealth.org/,unknown,Acute,Yes
+Medical City Childrens Hospital,"7777 Forest Lane, Dallas, TX 75230, United States of America",(972) 566-7000,https://www.mcchildrenshospital.com/,181,Acute,Yes
+Mercy Childrens Hospital  Springfield,"1235 East Cherokee St, Springfield, MO 65804, United States of America",(417) 820-2000,https://www.stjohns.com/,51,Acute,Yes
+Mercy Childrens Hospital  St Louis,"615 South New Ballas Road, St. Louis, MO 63141, United States of America",(314) 251-6000,https://www.mercychildrens.net/,197,Acute,Yes
+MercyOne Childrens Hospital  Des Moines,"1111 6th Avenue, Des Moines, IA 50314, United States of America",(515) 247-3121,https://www.mercydesmoines.org/childrenshospital,635,Acute,Yes
+Miller Childrens  Womens Hospital Long Beach,"2801 Atlantic Avenue, Long Beach, CA 90806, United States of America",(562) 933-5437,http://www.millerchildrenshospitallb.org/,101,Acute,Yes
+Monroe Carell Jr Childrens Hospital at Vanderbilt,"2200 Children's Way, Nashville, TN 37232-9900, United States of America",(615) 936-4040,https://www.childrenshospitalvanderbilt.org/,343,Acute,Yes
+Mt Washington Pediatric Hospital Inc,"1708 West Rogers Avenue, Baltimore, MD 21209-4597, United States of America",(410) 578-8600,https://www.mwph.org/,102,Specialty,Yes
+MUSC Shawn Jenkins Childrens Hospital,"10 McClennan Banks Drive, Charleston, SC 29425, United States of America",(843) 792-2300,https://www.musckids.com/,209,Acute,Yes
+Nationwide Childrens Hospital,"700 Children's Drive, Columbus, OH 43205-2664, United States of America",(614) 722-2000,https://www.nationwidechildrens.org/,661,unknown,No
+Nemours Childrens Hospital Delaware,"1600 Rockland Road, Wilmington, DE 19899, United States of America",(302) 651-4000,http://www.nemoursdupont.org/,208,Acute,Yes
+Nemours Childrens Hospital Florida,"6535 Nemours Parkway, Orlando, FL 32827, United States of America",(407) 650-7000,https://www.nemours.org/,118,Acute,Yes
+NewYorkPresbyterian Komansky Childrens Hospital,"525 East 68th Street, New York, NY 10065, United States of America",(212) 746-5454,http://nyp.org/komansky,103,Acute,Yes
+NewYorkPresbyterian Morgan Stanley Childrens Hospital,"3959 Broadway, New York, NY 10032-1559, United States of America",(212) 305-2500,https://www.childrensnyp.org/,208,Acute,Yes
+Nicklaus Childrens Hospital,"3100 SW 62nd Avenue, Miami, FL 33155-3009, United States of America",(305) 666-6511,https://www.nicklauschildrens.org/home,281,Acute,Yes
+Niswonger Childrens Hospital,"400 North State of Franklin Road, Johnson City, TN 37604-6094, United States of America",(423) 431-4847,http://www.niswongerchildrenshospital.com/,73,Acute,Yes
+North Carolina Childrens Hospital,"101 Manning Drive, Chapel Hill, NC 27514, United States of America",(919) 966-4131,https://www.uncchildrens.org/uncmc/unc-childrens/,208,Acute,Yes
+Norton Childrens Hospital,"231 East Chestnut Street, Louisville, KY 40202, United States of America",(502) 629-6000,https://nortonchildrens.com/,267,Specialty,Yes
+Novant Health Hemby Childrens Hospital,"200 Hawthorne Lane, Charlotte, NC 28233-3549, United States of America",(704) 384-4000,https://www.novanthealth.org/hemby-childrens-hospital.aspx,78,Acute,Yes
+Ochsner Hospital for Children,"1315 Jefferson Highway, New Orleans, LA 70121, United States of America",(504) 842-3900,https://www.ochsner.org/locations/ochsner-hospital-for-children,115,Acute,Yes
+Oklahoma Childrens Hospital OU Health,"1200 North Children's Avenue, Oklahoma City, OK 73104, United States of America",(405) 271-4700,https://www.oumedicine.com/,265,Acute,Yes
+OSF Healthcare Childrens Hospital of Illinois,"530 NE Glen Oak Avenue, Peoria, IL 61637, United States of America",(309) 655-3722,https://www.childrenshospitalofil.org/,144,Acute,Yes
+Our Lady of the Lake Childrens Hospital,"5000 Hennessy Boulevard, Baton Rouge, LA 70808, United States of America",(225) 765-6563,https://www.ololchildrens.org/,123,Acute,Yes
+Penn State Childrens Hospital,"500 University Drive, Hershey, PA 17033-0850, United States of America",(717) 531-6700,https://www.pennstatechildrens.com/,146,Acute,Yes
+Peyton Manning Childrens Hospital at St Vincent,"2001 West 86th Street, Indianapolis, IN 46260, United States of America",(317) 338-2345,http://www.peytonmanningch.org/,158,Acute,Yes
+Phoenix Childrens,"1919 East Thomas Road, Phoenix, AZ 85016-7710, United States of America",(602) 933-1000,https://www.phoenixchildrens.org/,407,Acute,No
+Primary Childrens Hospital,"100 North Mario Capecchi Drive, Salt Lake City, UT 84113, United States of America",(801) 662-1000,https://intermountainhealthcare.org/locations/primary-childrens-hospital/,287,Acute,Yes
+ProMedica Russell J Ebeid Childrens Hospital,"2142 North Cove Boulevard, Toledo, OH 43606, United States of America",(419) 291-4000,https://www.promedica.org/,99,Acute,Yes
+Providence St Vincent Medical Center,"9205 SW Barnes Road, Portland, OR 97225, United States of America",(503) 216-1234,https://www.providence.org/children,36,Acute,Yes
+Rady Childrens Hospital San Diego,"3020 Children's Way, San Diego, CA 92123-4282, United States of America",(858) 576-1700,https://www.rchsd.org/,285,Acute,No
+Randall Childrens Hospital at Legacy Emanuel,"2801 North Gantenbein Avenue, Portland, OR 97227, United States of America",(503) 276-6537,https://www.legacyhealth.org/children,181,Acute,Yes
+Ranken Jordan Pediatric Bridge Hospital,"11365 Dorsett Road, Maryland Heights, MO 63043, United States of America",(314) 872-6400,https://www.rankenjordan.org/,34,Specialty,No
+Renown Childrens Hospital Renown Regional Medical Center,"1155 Mill Street, Reno, NV 89502-1474, United States of America",(775) 982-4100,https://www.renown.org/,83,Acute,Yes
+Riley Childrens Health,"705 Riley Hospital Drive, Indianapolis, IN 46202-5200, United States of America",(317) 944-4093,https://www.rileychildrens.org/,354,Acute,Yes
+Sacred Heart Childrens Hospital,"101 West Eighth Avenue, Spokane, WA 99204, United States of America",(509) 474-2800,https://www.shmcchildren.org/,160,Acute,Yes
+Sanford Childrens Hospital,"1600 West 22nd Street, Sioux Falls, SD 57117-5039, United States of America",(605) 333-6471,https://www.sanfordchildrens.org/,118,Acute,Yes
+Sanford Childrens Hospital  Fargo,"801 Broadway North, Fargo, ND 58122, United States of America",(701) 234-6000,https://www.sanfordhealth.org/,unknown,Acute,Yes
+Seattle Childrens,"4800 Sand Point Way NE, Seattle, WA 98105-3901, United States of America",(206) 987-2000,https://www.seattlechildrens.org/,360,Acute,No
+Shriners Hospitals for Children,"2900 Rocky Point Drive, Tampa, FL 33607, United States of America",(813) 281-0300,https://www.shrinershq.org/,unknown,Specialty,Yes
+Shriners Hospitals for Children - Boston,"51 Blossom Street, Boston, MA 02114, United States of America",(617) 722-3000,http://www.shrinershospitalsforchildren.org/,9,Specialty,Yes
+Shriners Hospitals for Children - Chicago,"2211 N. Oak Park Avenue, Chicago, IL 60707, United States of America",(773) 622-5400,http://www.shrinershospitalsforchildren.org/chicago,13,Specialty,Yes
+Shriners Hospitals for Children - Greenville,"950 West Faris Road, Greenville, SC 29605-4277, United States of America",(864) 271-3444,https://www.childrenshospitals.org/hospital-directory,50,Specialty,Yes
+Shriners Hospitals for Children - Honolulu,"1310 Punahou Street, Honolulu, HI 96826, United States of America",(808) 941-4466,https://www.childrenshospitals.org/hospital-directory,24,Specialty,Yes
+Shriners Hospitals for Children - Mexico,"Av. IMAN #257 - Deleg. Coyoacan, Mexico City DF,  04600, Mexico,",+(011 52) 555 424 7850,https://www.shrinerhq.org/,unknown,Specialty,Yes
+Shriners Hospitals for Children - Montreal,"1003 Decairie Boulevard, Montreal, QC H4A 0A9, Canada",(514) 842-4464,https://www.childrenshospitals.org/hospital-directory,unknown,Specialty,Yes
+Shriners Hospitals for Children - Northern California,"2425 Stockton Boulevard, Sacramento, CA 95817, United States of America",(916) 453-2000,http://shrinerschildrens.org/,35,Specialty,Yes
+Shriners Hospitals for Children - Ohio,"3229 Burnet Avenue, Cincinnati, OH 45229-3095, United States of America",(513) 872-6000,http://www.shrinershospitalcincinnati.org/,9,Specialty,Yes
+Shriners Hospitals for Children - Philadelphia,"3551 North Broad Street, Philadelphia, PA 19140, United States of America",(215) 430-4000,https://www.childrenshospitals.org/hospital-directory,39,Specialty,Yes
+Shriners Hospitals for Children - Portland,"3101 SW Sam Jackson Park Road, Portland, OR 97239-3009, United States of America",(503) 241-5090,https://www.childrenshospitals.org/hospital-directory,12,Specialty,Yes
+Shriners Hospitals for Children - Shreveport,"3100 Samford Avenue, Shreveport, LA 71103, United States of America",(318) 222-5704,https://www.childrenshospitals.org/hospital-directory,45,Specialty,Yes
+Shriners Hospitals for Children - Spokane,"911 West Fifth Avenue, Spokane, WA 99210-2472, United States of America",(509) 455-7844,https://www.childrenshospitals.org/hospital-directory,30,Specialty,Yes
+Shriners Hospitals for Children - Springfield,"516 Carew Street, Springfield, MA 01104, United States of America",(413) 787-2000,https://www.shrinershq.org/,20,Specialty,Yes
+Shriners Hospitals for Children  St Louis,"4400 Clayton Ave., St. Louis, MO 63110, United States of America",(314) 432-3600,https://www.childrenshospitals.org/hospital-directory,12,Specialty,Yes
+Shriners Hospitals for Children - Texas,"815 Market Street, Galveston, TX 77550-2725, United States of America",(409) 770-6600,http://www.shrinershospitalsforchildren.org/,30,Specialty,Yes
+Sidra Medicine,"PO Box 26999, Doha,  269999, Qatar,",+974-4404-2000,http://www.sidra.org/,156,Acute,No
+SSM Health Cardinal Glennon Childrens Hospital,"1465 South Grand Boulevard, St. Louis, MO 63104, United States of America",(314) 577-5600,https://www.cardinalglennon.com/,176,Acute,Yes
+St Christophers Hospital for Children,"160 East Erie Avenue, Philadelphia, PA 19134, United States of America",(215) 427-5000 or 1-88-ChrisKids,https://www.stchristophershospital.com/,107,Acute,Yes
+St Josephs Childrens Hospital,"703 Main Street, Paterson, NJ 07503, United States of America",(973) 754-2544,https://www.sjhmc.org/,128,Acute,Yes
+St Josephs Childrens Hospital of Tampa,"3001 West Martin Luther King Boulevard, Tampa, FL 33607, United States of America",(813) 554-8500,https://www.stjosephschildrens.com/,136,Acute,Yes
+St Jude Childrens Research Hospital,"262 Danny Thomas Place, Memphis, TN 38105-3678, United States of America",(901) 595-3300,https://www.stjude.org/,73,Acute,No
+St Louis Childrens Hospital,"One Children's Place, St. Louis, MO 63110-1081, United States of America",(314) 454-6000,https://www.stlouischildrens.org/,349,Acute,Yes
+St Lukes Childrens Hospital St Lukes Regional Medical Center,"190 East Bannock Street, Boise, ID 83712, United States of America",(208) 381-2222,https://www.stlukesonline.org/,113,Acute,Yes
+St Lukes University Hospital  Bethlehem,"801 Ostrum Street, Bethlehem, PA 18015, United States of America",(484) 526-4000,https://www.slhn.org/bethlehem,unknown,Acute,Yes
+Stony Brook Childrens Hospital,"100 Nicolls Road, Stony Brook, NY 11794, United States of America",(631) 444-2701,https://www.stonybrookchildrens.org/,106,Acute,Yes
+Sutter Childrens Center Sacramento,"2825 Capitol Avenue, Sacramento, CA 95816, United States of America",(916) 887-0000,https://www.sutterhealth.org/smcs/services/pediatric/pediatric-specialty,121,Acute,Yes
+Texas Childrens Hospital,"6651 Main Street, Houston, TX 77030, United States of America",(832) 824-1000,http://www.texaschildrens.org/,784,Acute,No
+Texas Scottish Rite Hospital for Children,"2222 Welborn Street, Dallas, TX 75219, United States of America",(214) 559-7611,https://www.tsrhc.org/,52,Specialty,No
+The Barbara Bush Childrens Hospital at Maine Medical Center,"22 Bramhall Street, Portland, ME 04102, United States of America",(207) 662-2353,https://www.mmc.org/bbch,116,Acute,Yes
+The BristolMyers Squibb Childrens Hospital at Robert Wood Johnson University Hospi...,"One Robert Wood Johnson Place, New Brunswick, NJ 08903-2601, United States of America",(732) 828-3000,https://www.bmsch.org/,105,Acute,Yes
+The Childrens Hospital at Montefiore,"3415 Bainbridge Avenue, Bronx, NY 10467, United States of America",(718) 741-2426,https://www.cham.org/,193,Acute,Yes
+The Childrens Hospital at Providence Providence Alaska Medical Center,"3200 Providence Drive, Anchorage, AK 99519, United States of America",(907) 562-2211,http://alaska.providence.org/services/c/childrens,114,Acute,Yes
+The Childrens Hospital at Saint Francis,"6161 South Yale Avenue, Tulsa, OK 74136, United States of America",(918) 502-6715,https://www.saintfrancis.com/,144,Acute,Yes
+The Childrens Hospital at Saint Peters University Hospital,"254 Easton Avenue, New Brunswick, NJ 08903, United States of America",(732) 565-5437,https://www.saintpetershcs.com/spchildrenshospital/,unknown,Acute,Yes
+The Childrens Regional Hospital at Cooper,"One Cooper Plaza, Camden, NJ 08103, United States of America",(856) 342-2000,https://www.cooperchildrens.org/,61,Acute,Yes
+The Hospital for Sick Children,"555 University Avenue, Toronto, ON M5G 1X8, Canada",(416) 813-1500,https://www.sickkids.ca/,288,Acute,No
+The HSC Pediatric Center,"1731 Bunker Hill Road, NE, Washington, DC 20017, United States of America",(202) 832-4400,https://www.hscpediatriccenter.org/,103,Specialty,Yes
+The Mount Sinai Kravis Childrens Hospital,"One Gustave L. Levy Place, New York, NY 10029, United States of America",(212) 241-6500,http://www.mountsinai.org/patient-care/service-areas/children,112,Acute,Yes
+The Royal Childrens Hospital,"50 Flemington Road, Parkville, VIC 3052, Australia,",+61-3-9345 5522,https://www.rch.org.au/,405,Acute,No
+The Salah Foundation Childrens Hospital at Broward Health,"1600 South Andrews Avenue, Fort Lauderdale, FL 33316, United States of America",(954) 355-5607,https://www.browardhealth.org/,107,Acute,Yes
+The Studer Family Childrens Hospital at Ascension Sacred Heart,"1 Bubba Watson Drive, Pensacola, FL 32504, United States of America",(850) 416-7000,https://www.studerfamilychildrenshospital.com/,112,Acute,Yes
+The University of Vermont Childrens Hospital,"111 Colchester Avenue, Burlington, VT 05401, United States of America",(802) 656-3243,https://www.uvmhealth.org/childrens-hospital,58,Acute,Yes
+The Unterberg Childrens Hospital at Monmouth Medical Center,"300 Second Avenue, Long Branch, NJ 07740, United States of America",(732) 923-7250,https://www.rwjbh.org/unterberg-childrens-hospital-at-monmouth-medical,70,Acute,Yes
+Tufts Childrens Hospital,"800 Washington Street, Boston, MA 02111, United States of America",(617) 636-6432,https://www.floatinghospital.org/,62,Acute,Yes
+UCLA Mattel Childrens Hospital,"757 Westwood Plaza, Los Angeles, CA 90095, United States of America",(310) 794-9238,https://www.uclahealth.org/mattel/,131,Acute,Yes
+UCSF Benioff Childrens Hospital Oakland,"747 - 52nd Street, Oakland, CA 94609-1809, United States of America",(510) 428-3000,https://www.childrenshospitaloakland.org/,189,Acute,Yes
+UCSF Benioff Childrens Hospital San Francisco,"1975 4th Street, San Francisco, CA 94158, United States of America",(415) 353-3000,https://www.ucsfbenioffchildrens.org/,189,Acute,Yes
+UF Health Shands Childrens Hospital,"1600 SW Archer Road, Gainesville, FL 32610, United States of America",(352) 594-1328,http://ufhealth.org/,188,Acute,Yes
+UH Rainbow Babies  Childrens Hospital,"11100 Euclid Avenue, Cleveland, OH 44106, United States of America",(216) 844-1000,https://www.uhhospitals.org/rainbow,unknown,Acute,Yes
+UMass Memorial Childrens Medical Center,"55 Lake Avenue North, Worcester, MA 01655, United States of America",(508) 334-1000,https://www.umassmemorial.org/children,101,Acute,Yes
+University Health System Childrens Health,"4502 Medical Drive, San Antonio, TX 78229, United States of America",(210) 358-4000,http://universitychildrenshealth.com/,100,Acute,Yes
+University of California Davis Childrens Hospital,"2315 Stockton Boulevard, Sacramento, CA 95817, United States of America",(916) 734-2000,https://www.ucdmc.ucdavis.edu/children,121,Acute,Yes
+University of Iowa Stead Family Childrens Hospital,"200 Hawkins Drive 1337DJCP, Iowa City, IA 52242, United States of America",(888) 573-5437,http://www.uichildrens.org/Default.aspx,204,Acute,Yes
+University of Maryland Childrens Hospital,"22 South Greene Street, Baltimore, MD 21201, United States of America",(410) 328-2900,http://www.umm.edu/childrens,119,Acute,Yes
+University of Minnesota Masonic Childrens Hospital,"2450 Riverside Avenue, Minneapolis, MN 55454, United States of America",(612) 273-2000,https://www.mhealth.org/childrens,212,Acute,Yes
+University of New Mexico Childrens Hospital,"2211 Lomas Boulevard, NE, Albuquerque, NM 87106, United States of America",(505) 272-5551,https://hospitals.unm.edu/,138,Acute,Yes
+UPMC Childrens Hospital of Pittsburgh,"One Children's Hospital Drive, Pittsburgh, PA 15224-1334, United States of America",(412) 692-5325,https://www.chp.edu/,303,Acute,Yes
+Upstate Golisano Childrens Hospital,"One Children's Circle, Syracuse, NY 13210, United States of America",(315) 464-4245,https://www.upstate.edu/gch,71,Acute,Yes
+USA Health Childrens  Womens Hospital,"1700 Center Street, Mobile, AL 36604, United States of America",(251) 415-1000,https://www.usahealthsystem.com/locations/childrens-womens-hospital,138,Acute,Yes
+UVA Childrens,"PO Box 800008, Charlottesville, VA 22908, United States of America",(434) 982-0027,https://childrens.uvahealth.com/,55,Acute,Yes
+Valley Childrens Healthcare,"9300 Valley Children's Place, Madera, CA 93636-8762, United States of America",(559) 353-3000,http://www.valleychildrens.org/,209,Acute,No
+Voorhees Pediatric Facility,"1304 Laurel Oak Road, Voorhees, NJ 08043-4392, United States of America",(856) 346-3300,https://www.forkidcare.com/,unknown,Specialty,Yes
+Wake Forest Baptist Health  Brenner Childrens Hospital,"Medical Center Boulevard, Winston-Salem, NC 27157, United States of America",(336) 716-2011,https://www.brennerchildrens.org/,179,Acute,Yes
+WillisKnighton South and the Center for Womens and Childrens Health,"2510 W. Bert Kouns Industrial Loop, Shreveport, LA 71118, United States of America",(318) 212-5000,https://www.wkhs.com/locations/hospitals/willis-knighton-south,unknown,Acute,Yes
+Wolfson Childrens Hospital,"800 Prudential Drive, Jacksonville, FL 32207, United States of America",(904) 202-8000,https://www.wolfsonchildrens.com/,199,Acute,Yes
+WVU Medicine Childrens,"Medical Center Drive, Department 8200, Morgantown, WV 26506-8111, United States of America",(304) 598-4305,https://www.wvukids.com/,98,Acute,Yes
+Yale New Haven Childrens Hospital,"20 York Street, New Haven, CT 06510, United States of America",(203) 688-4242,http://www.ynhh.org/yale-new-haven-childrens-hospital/,208,Acute,Yes

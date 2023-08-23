@@ -1,0 +1,2018 @@
+[
+  {
+    "name": "AdventHealth for Children",
+    "address": "601 East Rollins Street, Orlando, FL 32803, United States of America",
+    "phone": "(407) 303-7716",
+    "web_address": "https://www.adventhealth.com/hospital/adventhealth-children",
+    "staffed_beds": "198",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Advocate Childrens Hospital",
+    "address": "4440 West 95th Street, Oak Lawn, IL 60453, United States of America",
+    "phone": "(708) 684-8000",
+    "web_address": "https://www.advocatechildrenshospital.com/",
+    "staffed_beds": "145",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Advocate Childrens Hospital  Park Ridge",
+    "address": "1775 Dempster Street, Park Ridge, IL 60068, United States of America",
+    "phone": "(855) 312-5437",
+    "web_address": "https://www.advocatechildrenshospital.com/",
+    "staffed_beds": "137",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Akron Childrens Hospital",
+    "address": "One Perkins Square, Akron, OH 44308-1062, United States of America",
+    "phone": "(330) 543-1000",
+    "web_address": "https://www.akronchildrens.org/",
+    "staffed_beds": "466",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "American Family Childrens Hospital",
+    "address": "1675 Highland Avenue, Madison, WI 53792, United States of America",
+    "phone": "(608) 890-5437",
+    "web_address": "https://www.uwhealthkids.org/",
+    "staffed_beds": "101",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Ann  Robert H Lurie Childrens Hospital of Chicago",
+    "address": "225 East Chicago Avenue, Chicago, IL 60611-2605, United States of America",
+    "phone": "(312) 227-4000",
+    "web_address": "https://www.luriechildrens.org/",
+    "staffed_beds": "364",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Arkansas Childrens Hospital",
+    "address": "1 Children's Way, Little Rock, AR 72202, United States of America",
+    "phone": "(501) 364-1100",
+    "web_address": "https://www.archildrens.org/",
+    "staffed_beds": "360",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Arnold Palmer Hospital for Children",
+    "address": "92 West Miller Street, Orlando, FL 32806, United States of America",
+    "phone": "(407) 649-9111",
+    "web_address": "http://www.orlandohealth.com/arnoldpalmerhospital/",
+    "staffed_beds": "196",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Ascension St John Childrens Hospital",
+    "address": "22101 Moross Road, Detroit, MI 48236, United States of America",
+    "phone": "(313) 343-3964",
+    "web_address": "https://healthcare.ascension.org/Locations/Michigan/MIDET/Detroit-Ascension-St-John-Hospital",
+    "staffed_beds": "83",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Atrium Health Navicent Beverly Knight Olson Childrens Hospital",
+    "address": "777 Hemlock Street, Macon, GA 31201, United States of America",
+    "phone": "(478) 633-1000",
+    "web_address": "https://www.childrenshospitalnh.org/",
+    "staffed_beds": "79",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Banner Childrens at Desert",
+    "address": "1400 South Dobson Road, Mesa, AZ 85202, United States of America",
+    "phone": "(480) 412-5437",
+    "web_address": "https://www.bannerhealth.com/",
+    "staffed_beds": "138",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Baylor Scott  White McLane Childrens Medical Center",
+    "address": "1901 South West HK Dodgen Loop, Temple, TX 76502, United States of America",
+    "phone": "(254) 935-4000",
+    "web_address": "https://www.bswhealth.com/mclane-childrens/locations/medical-center-temple/",
+    "staffed_beds": "115",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Baystate Childrens Hospital",
+    "address": "759 Chestnut Street, Springfield, MA 01199, United States of America",
+    "phone": "(413) 794-5060",
+    "web_address": "https://www.baystatehealth.com/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Beaumont Childrens",
+    "address": "3601 West Thirteen Mile Road, Royal Oak, MI 48073, United States of America",
+    "phone": "(248) 551-0414",
+    "web_address": "https://www.beaumontchildrenshospital.com/",
+    "staffed_beds": "101",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Bernard  Millie Duker Childrens Hospital",
+    "address": "43 New Scotland Avenue, Albany, NY 12208-3478, United States of America",
+    "phone": "(518) 262-5333",
+    "web_address": "http://www.amc.edu/Patient/services/childrens_hospital/",
+    "staffed_beds": "125",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Betty H Cameron Womens  Childrens Hospital",
+    "address": "2131 South 17th Street, Wilmington, NC 28402, United States of America",
+    "phone": "(910) 667-7294",
+    "web_address": "https://nhrmc.org/services/pediatrics",
+    "staffed_beds": "310",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Blank Childrens Hospital",
+    "address": "1200 Pleasant Street, Des Moines, IA 50309, United States of America",
+    "phone": "(515) 241-5926",
+    "web_address": "https://www.blankchildrens.org/",
+    "staffed_beds": "96",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Blythedale Childrens Hospital",
+    "address": "95 Bradhurst Avenue, Valhalla, NY 10595, United States of America",
+    "phone": "(914) 592-7555",
+    "web_address": "https://www.blythedale.org/",
+    "staffed_beds": "86",
+    "hospital_type": "Specialty",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Bon Secours St Marys Hospital Childrens Services",
+    "address": "5801 Bremo Road, Richmond, VA 23226, United States of America",
+    "phone": "(804) 285-2011",
+    "web_address": "https://www.bonsecours.com/",
+    "staffed_beds": "94",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Boston Childrens Hospital",
+    "address": "300 Longwood Avenue, Boston, MA 02115-5724, United States of America",
+    "phone": "(617) 355-6000",
+    "web_address": "https://www.childrenshospital.org/",
+    "staffed_beds": "415",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Boys Town National Research Hospital",
+    "address": "555 North 30th Street, Omaha, NE 68131, United States of America",
+    "phone": "(531) 355-1234",
+    "web_address": "https://www.boystown.org/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Bronson Methodist Hospital",
+    "address": "601 John Street, Kalamazoo, MI 49007, United States of America",
+    "phone": "(269) 341-7654",
+    "web_address": "https://www.bronsonhealth.com/",
+    "staffed_beds": "91",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "CS Mott Childrens Hospital",
+    "address": "1500 East Medical Center Drive, Ann Arbor, MI 48109-0475, United States of America",
+    "phone": "(734) 936-4000",
+    "web_address": "https://www.med.umich.edu/mott/",
+    "staffed_beds": "249",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Carle Foundation Hospital",
+    "address": "611 West Park Street, Urbana, IL 61801, United States of America",
+    "phone": "(217) 383-3311",
+    "web_address": "https://carle.org/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Carrie Tingley Hospital",
+    "address": "1127 University Boulevard NE, Albuquerque, NM 87102-1715, United States of America",
+    "phone": "(505) 272-5200",
+    "web_address": "http://hsc.unm.edu/health/locations/childrens-hospital.html",
+    "staffed_beds": "15",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens Health Dallas",
+    "address": "1935 Medical District Drive, Dallas, TX 75235-7701, United States of America",
+    "phone": "(214) 456-7000",
+    "web_address": "https://www.childrens.com/",
+    "staffed_beds": "497",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens Healthcare of Atlanta",
+    "address": "1575 Northeast Expressway, Atlanta, GA 30329, United States of America",
+    "phone": "(404) 785-7000",
+    "web_address": "https://www.choa.org/",
+    "staffed_beds": "649",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Childrens Hospital  Medical Center",
+    "address": "8200 Dodge Street, Omaha, NE 68114-4113, United States of America",
+    "phone": "(402) 955-5400",
+    "web_address": "https://www.childrensomaha.org/",
+    "staffed_beds": "189",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Childrens Hospital at Erlanger",
+    "address": "910 Blackford Street, Chattanooga, TN 37403, United States of America",
+    "phone": "(423) 778-5437",
+    "web_address": "https://www.erlanger.org/",
+    "staffed_beds": "128",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens Hospital Colorado",
+    "address": "13123 East 16th Avenue, Aurora, CO 80045-7106, United States of America",
+    "phone": "(720) 777-1234",
+    "web_address": "https://www.childrenscolorado.org/",
+    "staffed_beds": "545",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Childrens Hospital Los Angeles",
+    "address": "4650 Sunset Boulevard, Los Angeles, CA 90027-6062, United States of America",
+    "phone": "(323) 660-2450",
+    "web_address": "https://www.chla.org/",
+    "staffed_beds": "413",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Childrens Hospital New Orleans",
+    "address": "200 Henry Clay Avenue, New Orleans, LA 70118-5720, United States of America",
+    "phone": "(504) 899-9511",
+    "web_address": "https://www.chnola.org/",
+    "staffed_beds": "220",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens Hospital of Georgia",
+    "address": "1446 Harper Street, Augusta, GA 30912-7600, United States of America",
+    "phone": "(706) 721-0211",
+    "web_address": "https://www.augustahealth.org/childrens-hospital-of-georgia/childrens-hospital-of-georgia-home",
+    "staffed_beds": "115",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens Hospital of Michigan",
+    "address": "3901 Beaubien Boulevard, Detroit, MI 48201-2119, United States of America",
+    "phone": "(313) 745-5437",
+    "web_address": "http://www.childrensdmc.org/",
+    "staffed_beds": "226",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens Hospital of Nevada at University Medical Center",
+    "address": "1800 West Charleston Boulevard, Las Vegas, NV 89102, United States of America",
+    "phone": "(702) 383-2000",
+    "web_address": "https://www.childrenshospitalofnevada.org/",
+    "staffed_beds": "77",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens Hospital of Philadelphia",
+    "address": "3401 Civic Center Boulevard, Philadelphia, PA 19104-4399, United States of America",
+    "phone": "(215) 590-1000",
+    "web_address": "https://www.chop.edu/",
+    "staffed_beds": "591",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Childrens Hospital of Richmond at VCU",
+    "address": "1000 East Broad Street, Richmond, VA 23298, United States of America",
+    "phone": "(804) 628-5946",
+    "web_address": "https://www.chrichmond.org/",
+    "staffed_beds": "132",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens Hospital of The Kings Daughters Inc",
+    "address": "601 Children's Lane, Norfolk, VA 23507-1910, United States of America",
+    "phone": "(757) 668-7000",
+    "web_address": "https://www.chkd.org/",
+    "staffed_beds": "185",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Childrens Hospital of the University of Illinois",
+    "address": "1740 West Taylor Street, Chicago, IL 60612, United States of America",
+    "phone": "(312) 996-8297",
+    "web_address": "https://hospital.uillinois.edu/primary-and-specialty-care/pediatrics/childrens-hospital/locations-and-contact-for-pediatrics/childrens-hospital",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens Memorial Hermann Hospital",
+    "address": "6411 Fannin Street, Houston, TX 77030-1501, United States of America",
+    "phone": "(713) 704-5437",
+    "web_address": "https://www.childrensmemorialhermann.org/",
+    "staffed_beds": "239",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens Mercy Kansas City",
+    "address": "2401 Gillham Road, Kansas City, MO 64108-4619, United States of America",
+    "phone": "(816) 234-3000",
+    "web_address": "https://www.childrensmercy.org/",
+    "staffed_beds": "353",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Childrens Minnesota",
+    "address": "2525 Chicago Avenue South, Minneapolis, MN 55404-4518, United States of America",
+    "phone": "(612) 813-6100",
+    "web_address": "https://www.childrensmn.org/",
+    "staffed_beds": "429",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens Minnesota  St Paul",
+    "address": "345 North Smith Avenue, St. Paul, MN 55102, United States of America",
+    "phone": "(651) 220-6110",
+    "web_address": "https://www.childrensmn.org/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens National Hospital",
+    "address": "111 Michigan Avenue NW, Washington, DC 20010-2978, United States of America",
+    "phone": "(202) 476-5000",
+    "web_address": "https://www.childrensnational.org/",
+    "staffed_beds": "323",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Childrens of Alabama",
+    "address": "1600 Seventh Avenue South, Birmingham, AL 35233-1711, United States of America",
+    "phone": "(205) 638-9100",
+    "web_address": "https://www.childrensal.org/",
+    "staffed_beds": "351",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Childrens of Mississippi",
+    "address": "2500 North State Street, Jackson, MS 39216-4505, United States of America",
+    "phone": "(601) 815-7020",
+    "web_address": "http://childrenshospital.umc.edu/",
+    "staffed_beds": "253",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens Specialized Hospital",
+    "address": "200 Somerset Street, New Brunswick, NJ 08901, United States of America",
+    "phone": "(732) 258-7134",
+    "web_address": "https://www.childrens-specialized.org/",
+    "staffed_beds": "140",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Childrens Wisconsin",
+    "address": "999 North 92nd Street, Milwaukee, WI 53226, United States of America",
+    "phone": "(414) 266-2000",
+    "web_address": "https://www.chw.org/",
+    "staffed_beds": "207",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "ChildServe",
+    "address": "5406 Merle Hay Road, Johnston, IA 50131, United States of America",
+    "phone": "(515) 727-8750",
+    "web_address": "https://www.childserve.org/",
+    "staffed_beds": "64",
+    "hospital_type": "Specialty",
+    "part_of_system": "No"
+  },
+  {
+    "name": "CHOC Childrens",
+    "address": "1201 West La Veta Avenue, Orange, CA 92868, United States of America",
+    "phone": "(714) 997-3000",
+    "web_address": "https://www.choc.org/",
+    "staffed_beds": "334",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "CHRISTUS Childrens",
+    "address": "333 North Santa Rosa Street, San Antonio, TX 78207-3108, United States of America",
+    "phone": "(210) 704-2011",
+    "web_address": "https://www.christushealth.org/santa-rosa/childrens-hospital-of-san-antonio",
+    "staffed_beds": "198",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Cincinnati Childrens Hospital Medical Center",
+    "address": "3333 Burnet Avenue, Cincinnati, OH 45229-3039, United States of America",
+    "phone": "(513) 636-4200",
+    "web_address": "https://www.cincinnatichildrens.org/",
+    "staffed_beds": "654",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Cleveland Clinic Childrens",
+    "address": "9500 Euclid Avenue, Cleveland, OH 44195-5045, United States of America",
+    "phone": "(216) 444-2200",
+    "web_address": "https://www.clevelandclinic.org/pediatrics",
+    "staffed_beds": "389",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Cleveland Clinic Childrens Hospital for Rehabilitation",
+    "address": "2801 Martin Luther King, Jr. Drive, Cleveland, OH 44104-3864, United States of America",
+    "phone": "(216) 448-6400",
+    "web_address": "https://www.clevelandclinic.org/childrenshospital",
+    "staffed_beds": "25",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Cohen Childrens Medical Center",
+    "address": "269-01 76th Avenue, New Hyde Park, NV 11040, United States of America",
+    "phone": "(718) 470-3000",
+    "web_address": "https://www.cohenchildrens.com/",
+    "staffed_beds": "146",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Comer Childrens Hospital at University of Chicago Medical Center",
+    "address": "5721 South Maryland Avenue, Chicago, IL 60637, United States of America",
+    "phone": "(773) 702-1000",
+    "web_address": "https://www.uchicagokidshospital.org/",
+    "staffed_beds": "161",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Community Regional Medical Center",
+    "address": "2823 Fresno Street, Fresno, CA 93721, United States of America",
+    "phone": "(559) 459-2730",
+    "web_address": "https://www.communitymedical.org/",
+    "staffed_beds": "86",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Cone Health Womens  Childrens Center at Moses Cone Hospital",
+    "address": "1200 North Elm Street, Greensboro, NC 27401, United States of America",
+    "phone": "(336) 832-6100",
+    "web_address": "http://www.conehealth.com/services/childrens-services/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Connecticut Childrens Medical Center",
+    "address": "282 Washington Street, Hartford, CT 06106-3322, United States of America",
+    "phone": "(860) 545-9000",
+    "web_address": "https://www.connecticutchildrens.org/",
+    "staffed_beds": "185",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Cook Childrens Medical Center",
+    "address": "801 Seventh Avenue, Fort Worth, TX 76104-2796, United States of America",
+    "phone": "(682) 885-4000",
+    "web_address": "https://www.cookchildrens.org/",
+    "staffed_beds": "427",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Cottage Childrens Medical Center",
+    "address": "400 West Pueblo Street, Santa Barbara, CA 93105, United States of America",
+    "phone": "(805) 569-7273",
+    "web_address": "https://www.cottagehealth.org/childrens/",
+    "staffed_beds": "23",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Covenant Childrens",
+    "address": "4015 - 22nd Place, Lubbock, TX 79410, United States of America",
+    "phone": "(806) 725-0000",
+    "web_address": "http://covenantchildrens.org/",
+    "staffed_beds": "101",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Covenant HealthCare",
+    "address": "1447 N Harrison St., Saginaw, MI 48602, United States of America",
+    "phone": "(989) 583-0000",
+    "web_address": "https://www.covenanthealthcare.com/ch/childrens-services",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "CoxHealth",
+    "address": "3801 South National Avenue, Springfield, MO 65807, United States of America",
+    "phone": "(417) 269-6853",
+    "web_address": "https://www.coxhealth.com/",
+    "staffed_beds": "65",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Dartmouth Health Childrens",
+    "address": "One Medical Center Drive, Lebanon, NH 03756, United States of America",
+    "phone": "(603) 650-5000",
+    "web_address": "http://www.chadkids.org/",
+    "staffed_beds": "51",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Dayton Childrens Hospital",
+    "address": "One Children's Plaza, Dayton, OH 45404-1815, United States of America",
+    "phone": "(937) 641-3000",
+    "web_address": "https://www.childrensdayton.org/",
+    "staffed_beds": "181",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Dell Childrens Medical Center",
+    "address": "4900 Mueller Boulevard, Austin, TX 78723, United States of America",
+    "phone": "(512) 324-0000",
+    "web_address": "https://www.dellchildrens.net/",
+    "staffed_beds": "226",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Doernbecher Childrens Hospital at Oregon Health  Science University",
+    "address": "3181 SW Sam Jackson Park Road, Portland, OR 97239, United States of America",
+    "phone": "(503) 418-5195",
+    "web_address": "https://www.ohsudoernbecher.com/",
+    "staffed_beds": "145",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Driscoll Childrens Hospital",
+    "address": "3533 South Alameda Street, Corpus Christi, TX 78411-1721, United States of America",
+    "phone": "(361) 694-5000",
+    "web_address": "https://www.driscollchildrens.org/",
+    "staffed_beds": "162",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Dwaine and Cynthia Willett Childrens Hospital of Savannah",
+    "address": "4700 Waters Avenue, Savannah, GA 31403-3089, United States of America",
+    "phone": "(912) 350-8000",
+    "web_address": "https://memorialhealth.com/locations/memorial-health-dwaine-and-cynthia-willett-childrens-hospital-of-savannah/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "East Tennessee Childrens Hospital",
+    "address": "2018 Clinch Avenue, Knoxville, TN 37916, United States of America",
+    "phone": "(865) 541-8000",
+    "web_address": "https://www.etch.com/",
+    "staffed_beds": "152",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "El Paso Childrens Hospital",
+    "address": "4845 Alameda Avenue, El Paso, TX 79905, United States of America",
+    "phone": "(915) 298-5444",
+    "web_address": "https://www.elpasochildrens.org/",
+    "staffed_beds": "51",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Elizabeth Seton Childrens Center",
+    "address": "300 Corporate Boulevard South, Yonkers, NY 10701, United States of America",
+    "phone": "(914) 294-6300",
+    "web_address": "https://www.setonchildrens.org/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Specialty",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Essentia HealthSt Marys Childrens Hospital Duluth",
+    "address": "407 East Third Street, Duluth, MN 55805, United States of America",
+    "phone": "(218) 786-4540",
+    "web_address": "https://www.essentiahealth.org/find-facility/profile/essentia-health-st-marys-childrens-hospital-duluth/",
+    "staffed_beds": "333",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Franciscan Childrens",
+    "address": "30 Warren Street, Brighton, MA 02135, United States of America",
+    "phone": "(617) 254-3800",
+    "web_address": "https://www.franciscanhospital.org/",
+    "staffed_beds": "81",
+    "hospital_type": "Specialty",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Gertrudes Childrens Hospital",
+    "address": "Muthaiga Road, Nairobi,  00100, Kenya",
+    "phone": "+254-20-7206000",
+    "web_address": "http://www.gerties.org/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Gillette Childrens Specialty Healthcare",
+    "address": "200 East University Avenue, St. Paul, MN 55101, United States of America",
+    "phone": "(651) 221-2848",
+    "web_address": "https://www.gillettechildrens.org/",
+    "staffed_beds": "55",
+    "hospital_type": "Specialty",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Golisano Childrens Hospital at The University of Rochester Medical Center",
+    "address": "601 Elmwood Avenue, Rochester, NY 14642-0002, United States of America",
+    "phone": "(585) 275-1846",
+    "web_address": "https://www.urmc.rochester.edu/childrens-hospital.aspx",
+    "staffed_beds": "168",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Golisano Childrens Hospital of Southwest Florida",
+    "address": "9981 South Health Park Drive, Fort Myers, FL 33908, United States of America",
+    "phone": "(239) 332-1111",
+    "web_address": "https://www.leememorial.org/",
+    "staffed_beds": "134",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Goryeb Childrens Hospital",
+    "address": "100 Madison Avenue, Morristown, NJ 07962, United States of America",
+    "phone": "(973) 971-7857",
+    "web_address": "https://www.atlantichealth.org/cons/services/pediatrics",
+    "staffed_beds": "69",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Gundersen Lutheran Medical Center",
+    "address": "1900 South Avenue, 5th FL, La Crosse, WI 54601, United States of America",
+    "phone": "(608) 782-7300",
+    "web_address": "http://www.gundersenhealth.org/locations/la-crosse-campus/hospital/",
+    "staffed_beds": "30",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Hasbro Childrens Hospital at Rhode Island Hospital",
+    "address": "593 Eddy Street, Providence, RI 02903, United States of America",
+    "phone": "(401) 444-4000",
+    "web_address": "https://www.hasbrochildrenshospital.org/",
+    "staffed_beds": "66",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Hassenfeld Childrens Hospital at NYU Langone",
+    "address": "424 East 34th Street, New York, NY 10016, United States of America",
+    "phone": "(212) 263-7300",
+    "web_address": "https://nyulangone.org/locations/hassenfeld-childrens-hospital",
+    "staffed_beds": "102",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Helen DeVos Childrens Hospital",
+    "address": "100 Michigan Avenue, NE  MC250, Grand Rapids, MI 49503, United States of America",
+    "phone": "(616) 267-1000",
+    "web_address": "http://www.spectrumhealth.org/locations/spectrum-health-hospitals-helen-devos-childrens-hospital",
+    "staffed_beds": "277",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Hennepin County Medical Center",
+    "address": "701 Park Avenue South, Minneapolis, MN 55415, United States of America",
+    "phone": "(612) 873-2677",
+    "web_address": "https://www.hcmc.org/",
+    "staffed_beds": "371",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Holtz Childrens Hospital Jackson Memorial Hospital",
+    "address": "1611 NW 12th Avenue, Miami, FL 33136-1094, United States of America",
+    "phone": "(305) 585-6238",
+    "web_address": "http://jacksonhealth.org/forkids.asp",
+    "staffed_beds": "245",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Hoops Family Childrens Hospital",
+    "address": "1340 Hal Greer Boulevard, Huntington, WV 25701, United States of America",
+    "phone": "(304) 526-2000",
+    "web_address": "https://hoopschildrens.org/",
+    "staffed_beds": "71",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "HSHS St Johns Childrens Hospital",
+    "address": "800 East Carpenter Street, Springfield, IL 62769, United States of America",
+    "phone": "(217) 544-6464",
+    "web_address": "https://www.st-johns.org/",
+    "staffed_beds": "78",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "HSHS St Vincent Childrens Hospital",
+    "address": "835 South Van Buren Street, Green Bay, WI 54301, United States of America",
+    "phone": "(920) 433-0111",
+    "web_address": "http://www.stvincenthospital.org/",
+    "staffed_beds": "56",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Inova L J Murphy Childrens Hospital",
+    "address": "3300 Gallows Road, Falls Church, VA 22042, United States of America",
+    "phone": "(703) 776-4002",
+    "web_address": "https://www.inova.org/",
+    "staffed_beds": "241",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "James and Connie Maynard Childrens Hospital at Vidant Medical Center",
+    "address": "2100 Stantonsburg Road, Greenville, NC 27835-6028, United States of America",
+    "phone": "(252) 847-4100",
+    "web_address": "https://www.vidanthealth.com/services/maynard-childrens-hospital/",
+    "staffed_beds": "130",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Janet Weis Childrens Hospital at Geisinger",
+    "address": "100 North Academy Avenue, Danville, PA 17822, United States of America",
+    "phone": "(570) 271-6424",
+    "web_address": "https://www.geisinger.org/jwch",
+    "staffed_beds": "91",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Joe DiMaggio Childrens Hospital",
+    "address": "1005 Joe DiMaggio Drive, Hollywood, FL 33021, United States of America",
+    "phone": "(954) 265-5324",
+    "web_address": "https://www.jdch.com/",
+    "staffed_beds": "214",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "John R Oishei Childrens Hospital",
+    "address": "818 Ellicott Street, Buffalo, NY 14203, United States of America",
+    "phone": "(716) 323-2000",
+    "web_address": "https://www.ochbuffalo.org/",
+    "staffed_beds": "160",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Johns Hopkins All Childrens Hospital",
+    "address": "501 Sixth Avenue South, St. Petersburg, FL 33701, United States of America",
+    "phone": "(727) 898-7451",
+    "web_address": "https://www.hopkinsallchildrens.org/home",
+    "staffed_beds": "259",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Johns Hopkins Childrens Center",
+    "address": "1800 Orleans Street, Baltimore, MD 21287-3907, United States of America",
+    "phone": "(410) 955-5000",
+    "web_address": "https://www.hopkinschildrens.org/",
+    "staffed_beds": "198",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Joseph M Sanzari  Childrens Hospital Hackensack University Medical Center",
+    "address": "30 Prospect Avenue, Hackensack, NJ 07601, United States of America",
+    "phone": "(551) 996-2000",
+    "web_address": "https://www.hackensackumc.org/",
+    "staffed_beds": "105",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "K Hovnanian Childrens Hospital at Jersey Shore University Medical Center",
+    "address": "1945 Corlies Avenue, Neptune, NJ 07754, United States of America",
+    "phone": "(732) 775-5500",
+    "web_address": "https://www.khovnanianchildrenshospital.com/",
+    "staffed_beds": "88",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Kaiser Foundation Hospital  Roseville Womens and Childrens Services",
+    "address": "1600 Eureka Road, Roseville, CA 95661, United States of America",
+    "phone": "(916) 784-4000",
+    "web_address": "http://www.kaiserpermanente.org/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Kaiser Foundation Hospital - Santa Clara",
+    "address": "700 Lawrence Expressway, Santa Clara, CA 95051, United States of America",
+    "phone": "(408) 851-1000",
+    "web_address": "http://hospitals.healthgrove.com/l/299/Kaiser-Foundation-Hospital-Santa-Clara",
+    "staffed_beds": "60",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Kaiser Permanente - Oakland Medical Center",
+    "address": "275 West MacArthur Boulevard, Oakland, CA 94611-5641, United States of America",
+    "phone": "(510) 752-1000",
+    "web_address": "https://www.kp.org/",
+    "staffed_beds": "61",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Kaiser Permanente Pediatric Care Center Downey",
+    "address": "9333 Imperial Highway, Downey, CA 90242, United States of America",
+    "phone": "(562) 657-9000",
+    "web_address": "https://thrive.kaiserpermanente.org/care-near-you/southern-california/downey/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Kaiser Permanente Pediatric Care Center Fontana",
+    "address": "9961 Sierra Avenue, Fontana, CA 92335, United States of America",
+    "phone": "(866) 735-2922",
+    "web_address": "https://www.childrenshospitals.org/hospital-directory",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Kaiser Permanente Pediatric Care Center Los Angeles",
+    "address": "4867 Sunset Boulevard, Los Angeles, CA 90027, United States of America",
+    "phone": "(323) 783-9521",
+    "web_address": "https://www.kp.org/",
+    "staffed_beds": "48",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Kapiolani Medical Center for Women and Children",
+    "address": "1319 Punahou Street, Honolulu, HI 96826, United States of America",
+    "phone": "(808) 983-6000",
+    "web_address": "https://www.kapiolani.org/",
+    "staffed_beds": "154",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Kennedy Krieger Institute",
+    "address": "707 North Broadway, Baltimore, MD 21205, United States of America",
+    "phone": "(443) 923-9200",
+    "web_address": "https://www.kennedykrieger.org/",
+    "staffed_beds": "45",
+    "hospital_type": "Specialty",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Kentucky Childrens Hospital",
+    "address": "N-100 - 800 Rose Street, Lexington, KY 40536-0293, United States of America",
+    "phone": "(859) 323-6000",
+    "web_address": "https://www.ukhealthcare.uky.edu/kch/",
+    "staffed_beds": "173",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "La Rabida Childrens Hospital",
+    "address": "6501 South Promontory Drive, Chicago, IL 60649, United States of America",
+    "phone": "(773) 363-6700",
+    "web_address": "https://www.larabida.org/",
+    "staffed_beds": "30",
+    "hospital_type": "Specialty",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Le Bonheur Childrens Hospital",
+    "address": "848 Adams Avenue, Memphis, TN 38103, United States of America",
+    "phone": "(901) 287-5437",
+    "web_address": "https://www.lebonheur.org/",
+    "staffed_beds": "254",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Lehigh Valley Reilly Childrens Hospital",
+    "address": "1200 South Cedar Boulevard, Allentown, PA 18103, United States of America",
+    "phone": "(888) 402-5846",
+    "web_address": "http://www.lvhn.org/",
+    "staffed_beds": "87",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Levine Childrens Hospital",
+    "address": "1000 Blythe Boulevard, Charlotte, NC 28232-2861, United States of America",
+    "phone": "(704) 381-2000",
+    "web_address": "https://www.levinechildrenshospital.org/",
+    "staffed_beds": "244",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Loma Linda University Childrens Hospital",
+    "address": "11234 Anderson Street, Loma Linda, CA 92354, United States of America",
+    "phone": "(909) 558-8000",
+    "web_address": "https://childrens-hospital.lomalindahealth.org/",
+    "staffed_beds": "343",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Lucile Packard Childrens Hospital Stanford Medicine  Childrens Health",
+    "address": "725 Welch Road, Palo Alto, CA 94304, United States of America",
+    "phone": "(650) 497-8000",
+    "web_address": "http://www.stanfordchildrens.org/",
+    "staffed_beds": "254",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Maimonides Childrens Hospital",
+    "address": "4802 Tenth Avenue, Brooklyn, NY 11219-2916, United States of America",
+    "phone": "(718) 283-7500",
+    "web_address": "https://www.maimonidesmed.org/",
+    "staffed_beds": "74",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Maria Fareri Childrens Hospital at Westchester Medical Center",
+    "address": "Valhalla Campus, Valhalla, NY 10595, United States of America",
+    "phone": "(914) 493-6160",
+    "web_address": "https://www.mariafarerichildrens.org/",
+    "staffed_beds": "136",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Marshfield Childrens Hospital",
+    "address": "611 Saint Joseph Avenue, Marshfield, WI 54449, United States of America",
+    "phone": "(715) 387-1713",
+    "web_address": "https://marshfieldclinic.org/",
+    "staffed_beds": "50",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Mary Bridge Childrens Hospital  Health Network",
+    "address": "317 Martin Luther King, Jr. Way, Tacoma, WA 98415, United States of America",
+    "phone": "(253) 403-1400",
+    "web_address": "https://www.marybridge.org/",
+    "staffed_beds": "75",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Mayo Clinic Childrens Center",
+    "address": "200 First Street, SW, Rochester, MN 55905, United States of America",
+    "phone": "(507) 284-2511",
+    "web_address": "https://www.mayoclinic.org/childrenshospital/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "McMullen Childrens Center at Cooperman Barnabas Medical Center",
+    "address": "94 Old Short Hills Road, Livingston, NJ 07039, United States of America",
+    "phone": "(973) 322-5000",
+    "web_address": "http://www.barnabashealth.org/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Medical City Childrens Hospital",
+    "address": "7777 Forest Lane, Dallas, TX 75230, United States of America",
+    "phone": "(972) 566-7000",
+    "web_address": "https://www.mcchildrenshospital.com/",
+    "staffed_beds": "181",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Mercy Childrens Hospital  Springfield",
+    "address": "1235 East Cherokee St, Springfield, MO 65804, United States of America",
+    "phone": "(417) 820-2000",
+    "web_address": "https://www.stjohns.com/",
+    "staffed_beds": "51",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Mercy Childrens Hospital  St Louis",
+    "address": "615 South New Ballas Road, St. Louis, MO 63141, United States of America",
+    "phone": "(314) 251-6000",
+    "web_address": "https://www.mercychildrens.net/",
+    "staffed_beds": "197",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "MercyOne Childrens Hospital  Des Moines",
+    "address": "1111 6th Avenue, Des Moines, IA 50314, United States of America",
+    "phone": "(515) 247-3121",
+    "web_address": "https://www.mercydesmoines.org/childrenshospital",
+    "staffed_beds": "635",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Miller Childrens  Womens Hospital Long Beach",
+    "address": "2801 Atlantic Avenue, Long Beach, CA 90806, United States of America",
+    "phone": "(562) 933-5437",
+    "web_address": "http://www.millerchildrenshospitallb.org/",
+    "staffed_beds": "101",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Monroe Carell Jr Childrens Hospital at Vanderbilt",
+    "address": "2200 Children's Way, Nashville, TN 37232-9900, United States of America",
+    "phone": "(615) 936-4040",
+    "web_address": "https://www.childrenshospitalvanderbilt.org/",
+    "staffed_beds": "343",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Mt Washington Pediatric Hospital Inc",
+    "address": "1708 West Rogers Avenue, Baltimore, MD 21209-4597, United States of America",
+    "phone": "(410) 578-8600",
+    "web_address": "https://www.mwph.org/",
+    "staffed_beds": "102",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "MUSC Shawn Jenkins Childrens Hospital",
+    "address": "10 McClennan Banks Drive, Charleston, SC 29425, United States of America",
+    "phone": "(843) 792-2300",
+    "web_address": "https://www.musckids.com/",
+    "staffed_beds": "209",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Nationwide Childrens Hospital",
+    "address": "700 Children's Drive, Columbus, OH 43205-2664, United States of America",
+    "phone": "(614) 722-2000",
+    "web_address": "https://www.nationwidechildrens.org/",
+    "staffed_beds": "661",
+    "hospital_type": "unknown",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Nemours Childrens Hospital Delaware",
+    "address": "1600 Rockland Road, Wilmington, DE 19899, United States of America",
+    "phone": "(302) 651-4000",
+    "web_address": "http://www.nemoursdupont.org/",
+    "staffed_beds": "208",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Nemours Childrens Hospital Florida",
+    "address": "6535 Nemours Parkway, Orlando, FL 32827, United States of America",
+    "phone": "(407) 650-7000",
+    "web_address": "https://www.nemours.org/",
+    "staffed_beds": "118",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "NewYorkPresbyterian Komansky Childrens Hospital",
+    "address": "525 East 68th Street, New York, NY 10065, United States of America",
+    "phone": "(212) 746-5454",
+    "web_address": "http://nyp.org/komansky",
+    "staffed_beds": "103",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "NewYorkPresbyterian Morgan Stanley Childrens Hospital",
+    "address": "3959 Broadway, New York, NY 10032-1559, United States of America",
+    "phone": "(212) 305-2500",
+    "web_address": "https://www.childrensnyp.org/",
+    "staffed_beds": "208",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Nicklaus Childrens Hospital",
+    "address": "3100 SW 62nd Avenue, Miami, FL 33155-3009, United States of America",
+    "phone": "(305) 666-6511",
+    "web_address": "https://www.nicklauschildrens.org/home",
+    "staffed_beds": "281",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Niswonger Childrens Hospital",
+    "address": "400 North State of Franklin Road, Johnson City, TN 37604-6094, United States of America",
+    "phone": "(423) 431-4847",
+    "web_address": "http://www.niswongerchildrenshospital.com/",
+    "staffed_beds": "73",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "North Carolina Childrens Hospital",
+    "address": "101 Manning Drive, Chapel Hill, NC 27514, United States of America",
+    "phone": "(919) 966-4131",
+    "web_address": "https://www.uncchildrens.org/uncmc/unc-childrens/",
+    "staffed_beds": "208",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Norton Childrens Hospital",
+    "address": "231 East Chestnut Street, Louisville, KY 40202, United States of America",
+    "phone": "(502) 629-6000",
+    "web_address": "https://nortonchildrens.com/",
+    "staffed_beds": "267",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Novant Health Hemby Childrens Hospital",
+    "address": "200 Hawthorne Lane, Charlotte, NC 28233-3549, United States of America",
+    "phone": "(704) 384-4000",
+    "web_address": "https://www.novanthealth.org/hemby-childrens-hospital.aspx",
+    "staffed_beds": "78",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Ochsner Hospital for Children",
+    "address": "1315 Jefferson Highway, New Orleans, LA 70121, United States of America",
+    "phone": "(504) 842-3900",
+    "web_address": "https://www.ochsner.org/locations/ochsner-hospital-for-children",
+    "staffed_beds": "115",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Oklahoma Childrens Hospital OU Health",
+    "address": "1200 North Children's Avenue, Oklahoma City, OK 73104, United States of America",
+    "phone": "(405) 271-4700",
+    "web_address": "https://www.oumedicine.com/",
+    "staffed_beds": "265",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "OSF Healthcare Childrens Hospital of Illinois",
+    "address": "530 NE Glen Oak Avenue, Peoria, IL 61637, United States of America",
+    "phone": "(309) 655-3722",
+    "web_address": "https://www.childrenshospitalofil.org/",
+    "staffed_beds": "144",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Our Lady of the Lake Childrens Hospital",
+    "address": "5000 Hennessy Boulevard, Baton Rouge, LA 70808, United States of America",
+    "phone": "(225) 765-6563",
+    "web_address": "https://www.ololchildrens.org/",
+    "staffed_beds": "123",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Penn State Childrens Hospital",
+    "address": "500 University Drive, Hershey, PA 17033-0850, United States of America",
+    "phone": "(717) 531-6700",
+    "web_address": "https://www.pennstatechildrens.com/",
+    "staffed_beds": "146",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Peyton Manning Childrens Hospital at St Vincent",
+    "address": "2001 West 86th Street, Indianapolis, IN 46260, United States of America",
+    "phone": "(317) 338-2345",
+    "web_address": "http://www.peytonmanningch.org/",
+    "staffed_beds": "158",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Phoenix Childrens",
+    "address": "1919 East Thomas Road, Phoenix, AZ 85016-7710, United States of America",
+    "phone": "(602) 933-1000",
+    "web_address": "https://www.phoenixchildrens.org/",
+    "staffed_beds": "407",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Primary Childrens Hospital",
+    "address": "100 North Mario Capecchi Drive, Salt Lake City, UT 84113, United States of America",
+    "phone": "(801) 662-1000",
+    "web_address": "https://intermountainhealthcare.org/locations/primary-childrens-hospital/",
+    "staffed_beds": "287",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "ProMedica Russell J Ebeid Childrens Hospital",
+    "address": "2142 North Cove Boulevard, Toledo, OH 43606, United States of America",
+    "phone": "(419) 291-4000",
+    "web_address": "https://www.promedica.org/",
+    "staffed_beds": "99",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Providence St Vincent Medical Center",
+    "address": "9205 SW Barnes Road, Portland, OR 97225, United States of America",
+    "phone": "(503) 216-1234",
+    "web_address": "https://www.providence.org/children",
+    "staffed_beds": "36",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Rady Childrens Hospital San Diego",
+    "address": "3020 Children's Way, San Diego, CA 92123-4282, United States of America",
+    "phone": "(858) 576-1700",
+    "web_address": "https://www.rchsd.org/",
+    "staffed_beds": "285",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Randall Childrens Hospital at Legacy Emanuel",
+    "address": "2801 North Gantenbein Avenue, Portland, OR 97227, United States of America",
+    "phone": "(503) 276-6537",
+    "web_address": "https://www.legacyhealth.org/children",
+    "staffed_beds": "181",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Ranken Jordan Pediatric Bridge Hospital",
+    "address": "11365 Dorsett Road, Maryland Heights, MO 63043, United States of America",
+    "phone": "(314) 872-6400",
+    "web_address": "https://www.rankenjordan.org/",
+    "staffed_beds": "34",
+    "hospital_type": "Specialty",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Renown Childrens Hospital Renown Regional Medical Center",
+    "address": "1155 Mill Street, Reno, NV 89502-1474, United States of America",
+    "phone": "(775) 982-4100",
+    "web_address": "https://www.renown.org/",
+    "staffed_beds": "83",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Riley Childrens Health",
+    "address": "705 Riley Hospital Drive, Indianapolis, IN 46202-5200, United States of America",
+    "phone": "(317) 944-4093",
+    "web_address": "https://www.rileychildrens.org/",
+    "staffed_beds": "354",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Sacred Heart Childrens Hospital",
+    "address": "101 West Eighth Avenue, Spokane, WA 99204, United States of America",
+    "phone": "(509) 474-2800",
+    "web_address": "https://www.shmcchildren.org/",
+    "staffed_beds": "160",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Sanford Childrens Hospital",
+    "address": "1600 West 22nd Street, Sioux Falls, SD 57117-5039, United States of America",
+    "phone": "(605) 333-6471",
+    "web_address": "https://www.sanfordchildrens.org/",
+    "staffed_beds": "118",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Sanford Childrens Hospital  Fargo",
+    "address": "801 Broadway North, Fargo, ND 58122, United States of America",
+    "phone": "(701) 234-6000",
+    "web_address": "https://www.sanfordhealth.org/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Seattle Childrens",
+    "address": "4800 Sand Point Way NE, Seattle, WA 98105-3901, United States of America",
+    "phone": "(206) 987-2000",
+    "web_address": "https://www.seattlechildrens.org/",
+    "staffed_beds": "360",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Shriners Hospitals for Children",
+    "address": "2900 Rocky Point Drive, Tampa, FL 33607, United States of America",
+    "phone": "(813) 281-0300",
+    "web_address": "https://www.shrinershq.org/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Boston",
+    "address": "51 Blossom Street, Boston, MA 02114, United States of America",
+    "phone": "(617) 722-3000",
+    "web_address": "http://www.shrinershospitalsforchildren.org/",
+    "staffed_beds": "9",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Chicago",
+    "address": "2211 N. Oak Park Avenue, Chicago, IL 60707, United States of America",
+    "phone": "(773) 622-5400",
+    "web_address": "http://www.shrinershospitalsforchildren.org/chicago",
+    "staffed_beds": "13",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Greenville",
+    "address": "950 West Faris Road, Greenville, SC 29605-4277, United States of America",
+    "phone": "(864) 271-3444",
+    "web_address": "https://www.childrenshospitals.org/hospital-directory",
+    "staffed_beds": "50",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Honolulu",
+    "address": "1310 Punahou Street, Honolulu, HI 96826, United States of America",
+    "phone": "(808) 941-4466",
+    "web_address": "https://www.childrenshospitals.org/hospital-directory",
+    "staffed_beds": "24",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Mexico",
+    "address": "Av. IMAN #257 - Deleg. Coyoacan, Mexico City DF,  04600, Mexico",
+    "phone": "+(011 52) 555 424 7850",
+    "web_address": "https://www.shrinerhq.org/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Montreal",
+    "address": "1003 Decairie Boulevard, Montreal, QC H4A 0A9, Canada",
+    "phone": "(514) 842-4464",
+    "web_address": "https://www.childrenshospitals.org/hospital-directory",
+    "staffed_beds": "unknown",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Northern California",
+    "address": "2425 Stockton Boulevard, Sacramento, CA 95817, United States of America",
+    "phone": "(916) 453-2000",
+    "web_address": "http://shrinerschildrens.org/",
+    "staffed_beds": "35",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Ohio",
+    "address": "3229 Burnet Avenue, Cincinnati, OH 45229-3095, United States of America",
+    "phone": "(513) 872-6000",
+    "web_address": "http://www.shrinershospitalcincinnati.org/",
+    "staffed_beds": "9",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Philadelphia",
+    "address": "3551 North Broad Street, Philadelphia, PA 19140, United States of America",
+    "phone": "(215) 430-4000",
+    "web_address": "https://www.childrenshospitals.org/hospital-directory",
+    "staffed_beds": "39",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Portland",
+    "address": "3101 SW Sam Jackson Park Road, Portland, OR 97239-3009, United States of America",
+    "phone": "(503) 241-5090",
+    "web_address": "https://www.childrenshospitals.org/hospital-directory",
+    "staffed_beds": "12",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Shreveport",
+    "address": "3100 Samford Avenue, Shreveport, LA 71103, United States of America",
+    "phone": "(318) 222-5704",
+    "web_address": "https://www.childrenshospitals.org/hospital-directory",
+    "staffed_beds": "45",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Spokane",
+    "address": "911 West Fifth Avenue, Spokane, WA 99210-2472, United States of America",
+    "phone": "(509) 455-7844",
+    "web_address": "https://www.childrenshospitals.org/hospital-directory",
+    "staffed_beds": "30",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Springfield",
+    "address": "516 Carew Street, Springfield, MA 01104, United States of America",
+    "phone": "(413) 787-2000",
+    "web_address": "https://www.shrinershq.org/",
+    "staffed_beds": "20",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children  St Louis",
+    "address": "4400 Clayton Ave., St. Louis, MO 63110, United States of America",
+    "phone": "(314) 432-3600",
+    "web_address": "https://www.childrenshospitals.org/hospital-directory",
+    "staffed_beds": "12",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Shriners Hospitals for Children - Texas",
+    "address": "815 Market Street, Galveston, TX 77550-2725, United States of America",
+    "phone": "(409) 770-6600",
+    "web_address": "http://www.shrinershospitalsforchildren.org/",
+    "staffed_beds": "30",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Sidra Medicine",
+    "address": "PO Box 26999, Doha,  269999, Qatar",
+    "phone": "+974-4404-2000",
+    "web_address": "http://www.sidra.org/",
+    "staffed_beds": "156",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "SSM Health Cardinal Glennon Childrens Hospital",
+    "address": "1465 South Grand Boulevard, St. Louis, MO 63104, United States of America",
+    "phone": "(314) 577-5600",
+    "web_address": "https://www.cardinalglennon.com/",
+    "staffed_beds": "176",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "St Christophers Hospital for Children",
+    "address": "160 East Erie Avenue, Philadelphia, PA 19134, United States of America",
+    "phone": "(215) 427-5000 or 1-88-ChrisKids",
+    "web_address": "https://www.stchristophershospital.com/",
+    "staffed_beds": "107",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "St Josephs Childrens Hospital",
+    "address": "703 Main Street, Paterson, NJ 07503, United States of America",
+    "phone": "(973) 754-2544",
+    "web_address": "https://www.sjhmc.org/",
+    "staffed_beds": "128",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "St Josephs Childrens Hospital of Tampa",
+    "address": "3001 West Martin Luther King Boulevard, Tampa, FL 33607, United States of America",
+    "phone": "(813) 554-8500",
+    "web_address": "https://www.stjosephschildrens.com/",
+    "staffed_beds": "136",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "St Jude Childrens Research Hospital",
+    "address": "262 Danny Thomas Place, Memphis, TN 38105-3678, United States of America",
+    "phone": "(901) 595-3300",
+    "web_address": "https://www.stjude.org/",
+    "staffed_beds": "73",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "St Louis Childrens Hospital",
+    "address": "One Children's Place, St. Louis, MO 63110-1081, United States of America",
+    "phone": "(314) 454-6000",
+    "web_address": "https://www.stlouischildrens.org/",
+    "staffed_beds": "349",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "St Lukes Childrens Hospital St Lukes Regional Medical Center",
+    "address": "190 East Bannock Street, Boise, ID 83712, United States of America",
+    "phone": "(208) 381-2222",
+    "web_address": "https://www.stlukesonline.org/",
+    "staffed_beds": "113",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "St Lukes University Hospital  Bethlehem",
+    "address": "801 Ostrum Street, Bethlehem, PA 18015, United States of America",
+    "phone": "(484) 526-4000",
+    "web_address": "https://www.slhn.org/bethlehem",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Stony Brook Childrens Hospital",
+    "address": "100 Nicolls Road, Stony Brook, NY 11794, United States of America",
+    "phone": "(631) 444-2701",
+    "web_address": "https://www.stonybrookchildrens.org/",
+    "staffed_beds": "106",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Sutter Childrens Center Sacramento",
+    "address": "2825 Capitol Avenue, Sacramento, CA 95816, United States of America",
+    "phone": "(916) 887-0000",
+    "web_address": "https://www.sutterhealth.org/smcs/services/pediatric/pediatric-specialty",
+    "staffed_beds": "121",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Texas Childrens Hospital",
+    "address": "6651 Main Street, Houston, TX 77030, United States of America",
+    "phone": "(832) 824-1000",
+    "web_address": "http://www.texaschildrens.org/",
+    "staffed_beds": "784",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Texas Scottish Rite Hospital for Children",
+    "address": "2222 Welborn Street, Dallas, TX 75219, United States of America",
+    "phone": "(214) 559-7611",
+    "web_address": "https://www.tsrhc.org/",
+    "staffed_beds": "52",
+    "hospital_type": "Specialty",
+    "part_of_system": "No"
+  },
+  {
+    "name": "The Barbara Bush Childrens Hospital at Maine Medical Center",
+    "address": "22 Bramhall Street, Portland, ME 04102, United States of America",
+    "phone": "(207) 662-2353",
+    "web_address": "https://www.mmc.org/bbch",
+    "staffed_beds": "116",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "The BristolMyers Squibb Childrens Hospital at Robert Wood Johnson University Hospi...",
+    "address": "One Robert Wood Johnson Place, New Brunswick, NJ 08903-2601, United States of America",
+    "phone": "(732) 828-3000",
+    "web_address": "https://www.bmsch.org/",
+    "staffed_beds": "105",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "The Childrens Hospital at Montefiore",
+    "address": "3415 Bainbridge Avenue, Bronx, NY 10467, United States of America",
+    "phone": "(718) 741-2426",
+    "web_address": "https://www.cham.org/",
+    "staffed_beds": "193",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "The Childrens Hospital at Providence Providence Alaska Medical Center",
+    "address": "3200 Providence Drive, Anchorage, AK 99519, United States of America",
+    "phone": "(907) 562-2211",
+    "web_address": "http://alaska.providence.org/services/c/childrens",
+    "staffed_beds": "114",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "The Childrens Hospital at Saint Francis",
+    "address": "6161 South Yale Avenue, Tulsa, OK 74136, United States of America",
+    "phone": "(918) 502-6715",
+    "web_address": "https://www.saintfrancis.com/",
+    "staffed_beds": "144",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "The Childrens Hospital at Saint Peters University Hospital",
+    "address": "254 Easton Avenue, New Brunswick, NJ 08903, United States of America",
+    "phone": "(732) 565-5437",
+    "web_address": "https://www.saintpetershcs.com/spchildrenshospital/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "The Childrens Regional Hospital at Cooper",
+    "address": "One Cooper Plaza, Camden, NJ 08103, United States of America",
+    "phone": "(856) 342-2000",
+    "web_address": "https://www.cooperchildrens.org/",
+    "staffed_beds": "61",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "The Hospital for Sick Children",
+    "address": "555 University Avenue, Toronto, ON M5G 1X8, Canada",
+    "phone": "(416) 813-1500",
+    "web_address": "https://www.sickkids.ca/",
+    "staffed_beds": "288",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "The HSC Pediatric Center",
+    "address": "1731 Bunker Hill Road, NE, Washington, DC 20017, United States of America",
+    "phone": "(202) 832-4400",
+    "web_address": "https://www.hscpediatriccenter.org/",
+    "staffed_beds": "103",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "The Mount Sinai Kravis Childrens Hospital",
+    "address": "One Gustave L. Levy Place, New York, NY 10029, United States of America",
+    "phone": "(212) 241-6500",
+    "web_address": "http://www.mountsinai.org/patient-care/service-areas/children",
+    "staffed_beds": "112",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "The Royal Childrens Hospital",
+    "address": "50 Flemington Road, Parkville, VIC 3052, Australia",
+    "phone": "+61-3-9345 5522",
+    "web_address": "https://www.rch.org.au/",
+    "staffed_beds": "405",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "The Salah Foundation Childrens Hospital at Broward Health",
+    "address": "1600 South Andrews Avenue, Fort Lauderdale, FL 33316, United States of America",
+    "phone": "(954) 355-5607",
+    "web_address": "https://www.browardhealth.org/",
+    "staffed_beds": "107",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "The Studer Family Childrens Hospital at Ascension Sacred Heart",
+    "address": "1 Bubba Watson Drive, Pensacola, FL 32504, United States of America",
+    "phone": "(850) 416-7000",
+    "web_address": "https://www.studerfamilychildrenshospital.com/",
+    "staffed_beds": "112",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "The University of Vermont Childrens Hospital",
+    "address": "111 Colchester Avenue, Burlington, VT 05401, United States of America",
+    "phone": "(802) 656-3243",
+    "web_address": "https://www.uvmhealth.org/childrens-hospital",
+    "staffed_beds": "58",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "The Unterberg Childrens Hospital at Monmouth Medical Center",
+    "address": "300 Second Avenue, Long Branch, NJ 07740, United States of America",
+    "phone": "(732) 923-7250",
+    "web_address": "https://www.rwjbh.org/unterberg-childrens-hospital-at-monmouth-medical",
+    "staffed_beds": "70",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Tufts Childrens Hospital",
+    "address": "800 Washington Street, Boston, MA 02111, United States of America",
+    "phone": "(617) 636-6432",
+    "web_address": "https://www.floatinghospital.org/",
+    "staffed_beds": "62",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "UCLA Mattel Childrens Hospital",
+    "address": "757 Westwood Plaza, Los Angeles, CA 90095, United States of America",
+    "phone": "(310) 794-9238",
+    "web_address": "https://www.uclahealth.org/mattel/",
+    "staffed_beds": "131",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "UCSF Benioff Childrens Hospital Oakland",
+    "address": "747 - 52nd Street, Oakland, CA 94609-1809, United States of America",
+    "phone": "(510) 428-3000",
+    "web_address": "https://www.childrenshospitaloakland.org/",
+    "staffed_beds": "189",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "UCSF Benioff Childrens Hospital San Francisco",
+    "address": "1975 4th Street, San Francisco, CA 94158, United States of America",
+    "phone": "(415) 353-3000",
+    "web_address": "https://www.ucsfbenioffchildrens.org/",
+    "staffed_beds": "189",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "UF Health Shands Childrens Hospital",
+    "address": "1600 SW Archer Road, Gainesville, FL 32610, United States of America",
+    "phone": "(352) 594-1328",
+    "web_address": "http://ufhealth.org/",
+    "staffed_beds": "188",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "UH Rainbow Babies  Childrens Hospital",
+    "address": "11100 Euclid Avenue, Cleveland, OH 44106, United States of America",
+    "phone": "(216) 844-1000",
+    "web_address": "https://www.uhhospitals.org/rainbow",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "UMass Memorial Childrens Medical Center",
+    "address": "55 Lake Avenue North, Worcester, MA 01655, United States of America",
+    "phone": "(508) 334-1000",
+    "web_address": "https://www.umassmemorial.org/children",
+    "staffed_beds": "101",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "University Health System Childrens Health",
+    "address": "4502 Medical Drive, San Antonio, TX 78229, United States of America",
+    "phone": "(210) 358-4000",
+    "web_address": "http://universitychildrenshealth.com/",
+    "staffed_beds": "100",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "University of California Davis Childrens Hospital",
+    "address": "2315 Stockton Boulevard, Sacramento, CA 95817, United States of America",
+    "phone": "(916) 734-2000",
+    "web_address": "https://www.ucdmc.ucdavis.edu/children",
+    "staffed_beds": "121",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "University of Iowa Stead Family Childrens Hospital",
+    "address": "200 Hawkins Drive 1337DJCP, Iowa City, IA 52242, United States of America",
+    "phone": "(888) 573-5437",
+    "web_address": "http://www.uichildrens.org/Default.aspx",
+    "staffed_beds": "204",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "University of Maryland Childrens Hospital",
+    "address": "22 South Greene Street, Baltimore, MD 21201, United States of America",
+    "phone": "(410) 328-2900",
+    "web_address": "http://www.umm.edu/childrens",
+    "staffed_beds": "119",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "University of Minnesota Masonic Childrens Hospital",
+    "address": "2450 Riverside Avenue, Minneapolis, MN 55454, United States of America",
+    "phone": "(612) 273-2000",
+    "web_address": "https://www.mhealth.org/childrens",
+    "staffed_beds": "212",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "University of New Mexico Childrens Hospital",
+    "address": "2211 Lomas Boulevard, NE, Albuquerque, NM 87106, United States of America",
+    "phone": "(505) 272-5551",
+    "web_address": "https://hospitals.unm.edu/",
+    "staffed_beds": "138",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "UPMC Childrens Hospital of Pittsburgh",
+    "address": "One Children's Hospital Drive, Pittsburgh, PA 15224-1334, United States of America",
+    "phone": "(412) 692-5325",
+    "web_address": "https://www.chp.edu/",
+    "staffed_beds": "303",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Upstate Golisano Childrens Hospital",
+    "address": "One Children's Circle, Syracuse, NY 13210, United States of America",
+    "phone": "(315) 464-4245",
+    "web_address": "https://www.upstate.edu/gch",
+    "staffed_beds": "71",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "USA Health Childrens  Womens Hospital",
+    "address": "1700 Center Street, Mobile, AL 36604, United States of America",
+    "phone": "(251) 415-1000",
+    "web_address": "https://www.usahealthsystem.com/locations/childrens-womens-hospital",
+    "staffed_beds": "138",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "UVA Childrens",
+    "address": "PO Box 800008, Charlottesville, VA 22908, United States of America",
+    "phone": "(434) 982-0027",
+    "web_address": "https://childrens.uvahealth.com/",
+    "staffed_beds": "55",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Valley Childrens Healthcare",
+    "address": "9300 Valley Children's Place, Madera, CA 93636-8762, United States of America",
+    "phone": "(559) 353-3000",
+    "web_address": "http://www.valleychildrens.org/",
+    "staffed_beds": "209",
+    "hospital_type": "Acute",
+    "part_of_system": "No"
+  },
+  {
+    "name": "Voorhees Pediatric Facility",
+    "address": "1304 Laurel Oak Road, Voorhees, NJ 08043-4392, United States of America",
+    "phone": "(856) 346-3300",
+    "web_address": "https://www.forkidcare.com/",
+    "staffed_beds": "unknown",
+    "hospital_type": "Specialty",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Wake Forest Baptist Health  Brenner Childrens Hospital",
+    "address": "Medical Center Boulevard, Winston-Salem, NC 27157, United States of America",
+    "phone": "(336) 716-2011",
+    "web_address": "https://www.brennerchildrens.org/",
+    "staffed_beds": "179",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "WillisKnighton South and the Center for Womens and Childrens Health",
+    "address": "2510 W. Bert Kouns Industrial Loop, Shreveport, LA 71118, United States of America",
+    "phone": "(318) 212-5000",
+    "web_address": "https://www.wkhs.com/locations/hospitals/willis-knighton-south",
+    "staffed_beds": "unknown",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Wolfson Childrens Hospital",
+    "address": "800 Prudential Drive, Jacksonville, FL 32207, United States of America",
+    "phone": "(904) 202-8000",
+    "web_address": "https://www.wolfsonchildrens.com/",
+    "staffed_beds": "199",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "WVU Medicine Childrens",
+    "address": "Medical Center Drive, Department 8200, Morgantown, WV 26506-8111, United States of America",
+    "phone": "(304) 598-4305",
+    "web_address": "https://www.wvukids.com/",
+    "staffed_beds": "98",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  },
+  {
+    "name": "Yale New Haven Childrens Hospital",
+    "address": "20 York Street, New Haven, CT 06510, United States of America",
+    "phone": "(203) 688-4242",
+    "web_address": "http://www.ynhh.org/yale-new-haven-childrens-hospital/",
+    "staffed_beds": "208",
+    "hospital_type": "Acute",
+    "part_of_system": "Yes"
+  }
+]
